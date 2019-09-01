@@ -1,0 +1,4 @@
+# State    pop:2019     pop:2010
+New York    19571881    19378100
+Pennsylvania    12829424    12702400
+Maine    1338404    1328361
