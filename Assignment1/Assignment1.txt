@@ -1,1 +1,3 @@
 This is just a review of python p much
+
+Each part of the assignment has been put in this folder (pdfs)
