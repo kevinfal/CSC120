@@ -11,21 +11,21 @@
 
 if __name__ == "__main__":
 
-    #varables
+    # varables
     inputString = input("input: ")
     fHalf = ""
     sHalf = ""
     returned = ""
     length = len(inputString)
-    mid = length//2 
+    mid = length // 2
 
-    if( length % 2 == 0): #String inputted is even
-        fHalf = inputString[ 0 : mid ] #gets first half of inputted string and assigns it
-        sHalf = inputString[ mid : length]  #gets second half
+    if length % 2 == 0:  # String inputted is even
+        fHalf = inputString[0:mid]  # gets first half of inputted string and assigns it
+        sHalf = inputString[mid:length]  # gets second half
         returned = sHalf + fHalf
-    else: #string is odd
+    else:  # string is odd
         midChar = inputString[mid]
-        fHalf = inputString[0: mid]
+        fHalf = inputString[0:mid]
         sHalf = inputString[mid + 1 : length]
         returned = sHalf + midChar + fHalf
 
