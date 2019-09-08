@@ -82,10 +82,12 @@ def collect(strings, n):
 
 def convert(ngrams):
     """
-        Converts 2d list containing strings (ngrams) to a list containing tuples with the same strings (ngrams)
+        Converts 2d list containing strings (ngrams) to a list containing tuples with 
+        the same strings (ngrams)
 
         Parameters:
-            ngrams (list[list][string]): 2d list of lists containing strings (or ngrams)
+            ngrams (list[list][string]): 2d list of lists 
+                            containing strings (or ngrams)
 
         Return:
             list[tuple(string)]: list of tuples containing strings
