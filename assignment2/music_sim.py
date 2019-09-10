@@ -24,22 +24,82 @@ def read(filename):
             id = line.split(' ')[1]
             index +=1
             score = lines[index]
-            songs[id] = score[:-2]
+            songs[id] = score[:-2].split(' ')
         
 
         index+=1
+    
+    return songs
 
 
-    for x in songs:
-        print(songs[x])
+
+def convert_ngram(songs,n):
+
+    songSets = {}
+    
+    for song in songs:
+        
+        songScore = songs[song] # set(ngsets.ngram(songs[song],0,n))
+        ngram = set()
+        #make set of ngrams
+        for start in range(len(songScore)):
+            added = ngsets.ngram(songScore,start,n)
+            if len(added) == 0:
+                continue
+            else:
+                ngram.add(tuple(added))
+                
+
+        songSets[song] = ngram
+
+    return songSets
+
+def mostSimilar(songs):
+    
+    most = 0
+    mostSongs = []
+
+    for song1 in songs:
+        for song2 in songs:
+
+            if song1 == song2:
+                continue
+            
+            score1 = songs[song1]
+            score2 = songs[song2]
+            val = jac.jaccard(score1,score2)
+            if val > most:
+                most = val
+                mostSongs = [song1,song2]
+
+    return (most,mostSongs)
+
+
+def printDict(dic):
+
+    for x in dic:
+        print(x)
+        print(dic[x])
+
+
 
 def main():
 
-    #filename = input("file: ")
-    filename = "data.txt"
-    #ngram_sz = input("N: ")
+    #filename = input("file: ")    
+    #n = int(input("N: "))
+    filename = 'data.txt'
+    n = 3
 
-    read(filename)
+    songs = read(filename)
+    songs = convert_ngram(songs,n)
+    most = mostSimilar(songs)
+    
+    score = most[0]
+    id_num1 = most[1][0]
+    id_num2 = most[1][1]
+
+    print("{} {} {:f}".format(id_num1, id_num2, score))
+
 
 if __name__ == '__main__':
     main()

@@ -79,6 +79,30 @@ def collect(strings, n):
         returned.append(added)
     return returned
 
+def collectToEnd(strings,n):
+    """
+        Parameters:
+            strings (list[str]): list of strings
+            n (int): length of desired ngrams
+        Returns:
+            (list) list of all possible ngrams of length n in strings
+    """
+    returned = []
+
+    for startpos in range(0, len(strings)):
+        # start at negative index to get every possible ngram
+
+        added = ngram(strings, startpos, n)
+        # construct ngram
+
+        if len(added) == 0:
+            continue
+        elif added in returned:
+            continue
+        returned.append(added)
+    return returned
+
+
 
 def convert(ngrams):
     """
