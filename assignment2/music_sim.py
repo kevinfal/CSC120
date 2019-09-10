@@ -18,7 +18,6 @@ def read(filename):
     while index < len(lines):
         line = lines[index]
         id = 0
-        score = ''
 
         if '@' in line:
             id = line.split(' ')[1]
@@ -34,12 +33,15 @@ def read(filename):
 
 
 def convert_ngram(songs,n):
+    '''
+        converts song's score into ngrams
+    '''
 
     songSets = {}
     
     for song in songs:
         
-        songScore = songs[song] # set(ngsets.ngram(songs[song],0,n))
+        songScore = songs[song][0:-1] # set(ngsets.ngram(songs[song],0,n))
         ngram = set()
         #make set of ngrams
         for start in range(len(songScore)):
@@ -51,17 +53,18 @@ def convert_ngram(songs,n):
                 
 
         songSets[song] = ngram
-
     return songSets
 
 def mostSimilar(songs):
-    
+    '''
+        Finds songs that are most similar
+    '''
     most = 0
     mostSongs = []
 
     for song1 in songs:
         for song2 in songs:
-
+            
             if song1 == song2:
                 continue
             
@@ -85,10 +88,10 @@ def printDict(dic):
 
 def main():
 
-    #filename = input("file: ")    
-    #n = int(input("N: "))
-    filename = 'data.txt'
-    n = 3
+    filename = input("file: ")    
+    n = int(input("N: "))
+    #filename = 'data.txt'
+    #n = 4
 
     songs = read(filename)
     songs = convert_ngram(songs,n)
