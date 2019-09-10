@@ -1,0 +1,269 @@
+@ 001 7 years. Lukas Graham 2015. https://noobnotes.net/7-years-lukas-graham/
+^G ^F ^F ^D ^F ^C Bb G ^D ^F ^C Bb G ^C ^C ^C ^C ^C ^C ^C Bb ^D ^C Bb ^G ^F ^F ^D ^F ^C Bb Bb Bb ^C ^D ^C Bb Bb Bb ^C ^D ^F ^C Bb Bb Bb ^C ^D ^C Bb ^C ^D ^C Bb ^C ^D ^F ^C Bb Bb ^C ^D ^C Bb ^C ^D ^C Bb ^C ^D ^F ^C Bb Bb ^C ^D ^C Bb ^C ^D ^C Bb ^C ^D ^F ^C Bb ^G ^G ^F ^F ^D ^F ^C Bb G ^D ^F ^C Bb G ^C ^C ^C ^C ^C ^C ^C Bb ^D ^C Bb ^G ^G ^F ^F ^D ^F ^C Bb Bb Bb ^C ^D ^C Bb Bb ^C ^D ^D ^F ^C Bb Bb ^C ^D ^C Bb ^C ^D ^C Bb ^C ^D ^F ^C Bb Bb Bb ^C ^D ^C ^C Bb Bb Bb ^C ^D ^F ^C Bb Bb Bb ^C ^D ^C Bb ^C ^D ^C Bb ^C ^D ^F ^C Bb ^G ^F ^F ^D ^F ^C Bb G ^D ^F ^C Bb G ^D ^C ^C ^C ^C ^C ^C Bb ^D ^C Bb ^G ^F ^F ^D ^F ^C Bb Bb Bb ^C ^D ^C Bb Bb Bb ^C ^D ^F ^C Bb Bb ^C ^D ^C Bb ^C ^D ^C Bb ^C ^D ^F ^C Bb Bb Bb ^C ^D ^C Bb ^C Bb Bb ^D ^F ^C Bb Bb Bb Bb ^C ^D ^C Bb ^C ^D ^C Bb ^C ^D ^F ^C Bb ^G ^F ^F ^D ^F ^C Bb G ^D ^F ^C Bb G G ^D ^C ^C ^C ^C ^C ^C ^C Bb ^D ^C Bb ^G ^F ^F ^D ^F ^C Bb ^G ^F ^F ^D ^F ^C ^Bb G ^D ^F ^C Bb G ^D ^C ^C ^C ^C ^C ^C ^C Bb ^D ^C ^Bb ^G ^F ^F ^D ^F ^C ^Bb Bb ^C ^D ^D ^D ^C ^Bb Bb Bb Bb ^C ^D ^F ^C Bb Bb Bb ^C ^D ^C Bb ^C ^D ^C Bb ^C ^D ^F ^C Bb Bb Bb ^C ^D ^C Bb Bb Bb Bb Bb ^C ^D ^F ^C Bb Bb Bb ^C ^D ^C Bb ^C ^D ^C Bb ^C ^D ^F ^C Bb ^G ^F ^F ^D ^F ^C Bb G ^D ^D ^F ^D ^C ^C ^C ^C ^C ^C ^C ^C ^D ^C ^C ^C Bb ^D ^C Bb Bb Bb ^C ^D ^C Bb Bb Bb Bb Bb ^C ^D ^C Bb ^F ^F ^F ^F ^F ^F ^D ^D ^D ^D ^D ^C Bb Bb ^G ^F ^F ^D ^F ^C Bb G G ^D ^F ^C ^C Bb Bb G G ^D ^F ^C ^C ^C ^C ^C ^C ^D ^C Bb ^G ^G ^A ^Bb ^A ^G ^F ^G ^G ^A ^Bb ^Bb ^Bb ^G ^G ^G ^Bb ^Bb ^Bb ^Bb ^Bb ^G ^G ^G ^G ^Bb ^Bb ^Bb ^A ^Bb ^Bb ^Bb ^G ^A ^Bb ^G ^G ^A ^Bb ^A ^G ^F ^G ^F ^F ^D ^F ^C Bb G ^D ^F ^C Bb G ^D ^C ^C ^C ^C ^C ^C Bb ^D ^C Bb ^G ^F ^F ^D ^F ^C Bb ^G ^F ^F ^D ^F ^C Bb
+
+@ 002 All of me. John Legend. https://noobnotes.net/all-of-me-john-legend/
+A B B B B B B G G A B B B A B B A G G E B B ^C B G ^C B G G A B A E B B B B A B B A G G B B B ^D ^C B B A G G E B B ^C B G G ^C ^C B G G A B A ^C A ^E ^D ^D ^C B A G G F# F# E D D D ^E ^E ^D ^D ^C B B A G A B ^D B ^E B A G B B B A A A G A E B B A A A G A A B B ^D B ^E B ^E B A G B B B A A A G A E B B A A A G A A B B ^C ^D ^G ^F# ^E ^D B B B B ^C ^D ^G ^F# ^E ^D B B B A B A
+
+@ 003 A million dreams. 
+B B ^C ^D ^C B ^C ^D ^C B ^C ^D ^C E ^C B G A B ^D E B ^C ^D B ^C ^D B ^C ^D ^E E ^C B G A B A G A A A G A B B A G E G A A A G A B B A F# G A A A G A B B A G E G ^D ^D ^D B B B ^C B A F# G ^D ^D ^G ^G ^A ^A ^B ^B ^D ^D ^F# ^F# ^G ^G ^G ^A ^A ^G *C ^B ^B ^A ^A ^A ^G ^G ^A ^G ^D ^D ^G ^G ^A ^A ^B ^B ^D ^D ^F# ^F# ^F# ^G ^G ^A ^G *C ^B ^B ^A ^A ^G ^G ^A ^G B ^D ^E ^D ^D B B ^E ^D ^C B B B ^C ^D B ^C ^D B ^C ^D ^E E ^C B B B A ^C A G B ^C ^D B ^C ^D ^G ^F# ^E ^D E ^D B G A B A ^C A A A G A B B A G E G A A A G A B B A B G A A A G A B ^D ^E A G E G ^D ^D ^D B B ^C B A G ^E D G G A A B B D D F# F# G G A A G ^C B B A A A G G A E D D G G A A B B D D F# F# G G A A G ^C B B A A G G A G .B D E D D .B .B E D C .B .B G A B G G A B G D E G B A B E F# G G .B D G A B G G A B G D D E G B A B E D D A A B D G G F# E D E B D E G F# G B G A D D G G A A B B D D F# F# G G A A G ^C B B A A G G A E G ^C B B G ^E ^D ^D D D G G A A B B D D F# F# G G A A G ^C B B A A G G A G G ^C B B G A ^C B G A A B .B C E D C .B .B
+
+@ 004 And the day goes on. Bill Wurtz. https://noobnotes.net/and-the-day-goes-on-bill-wurtz/
+F# F# F# F# Bb ^C# Bb G# F# F# F# F# D# C# F# F# F# F# Bb ^C# Bb F# G# F# F# F# F# Bb ^C# Bb G# F# F# F# F# D# C# ^D# Bb ^C# ^C# ^D# Bb F# F# G# F# F# F# F# F# Bb ^C# Bb F# F# F# F# D# C# F# F# F# F# Bb ^C# Bb F# G# F# F# F# F# Bb ^C# Bb G# F# F# F# F# D# C# ^D# Bb ^C# ^C# ^D# Bb F# F# G# F# Bb ^C# ^D# ^C# Bb G# F# B Bb G# F# B Bb G# F# G# Bb F# Bb ^C# ^D# ^C# Bb G# F# B Bb G# F# B Bb G# F# G# Bb F#
+
+@ 005 A whole new world. 
+B A ^C B G D B A ^C B G B A A G B A F# A G F# G E F# A G D B A ^C B G D B A ^C B G B A A G B A F# A G F# G E F# A G B B ^C ^E ^D B ^C ^E ^D A ^C B B B ^C ^D ^F# ^E ^D B ^F# ^G ^D G B A G F# G A B ^C ^E ^D B ^C ^E ^D A ^C B B B ^C ^D ^F# ^E ^D B ^F# ^G ^D G B A G A B A G F# F# G B A G A B A G F# F# G
+
+@ 006 Baa baa black sheep. Traditional children's rhyme. https://noobnotes.net/song-collections/childrens-nursery-rhymes/
+C C G G A A A A G F F E E D D C G G G F F E E E D C G G G F F F F E E E D
+
+@ 007 Baby.  Justin Bieber 2010.  https://noobnotes.net/baby-justin-bieber/
+D# F G F D# D C D# F G F D# F C D# F G F D# F F D# D D C .Bb C .Bb C .Bb D# Bb G F G D# Bb G F D# Bb G F G D# Bb G F D# Bb Bb G F D# Bb Bb G F D# D# F F G F G F G F G F D# Bb G F G Bb G F D# Bb F G D# D# D# F D# D# D# F G# G D# D# D# D# F D# D# F F F F F F F G F D# D# F D# G F G F G F Bb G G F G F G F ^C G G F G F G F Bb G F G G G F G F F D#
+
+@ 008 I love you - Barney theme. Children's TV show. https://noobnotes.net/i-love-you-barney-theme/
+G E G G E G A G F E D E F E F G C C C C C D E F G G D D F E D C G E G G E G A G F E D E F E F G C C C C C D E F G G D D F E D C
+
+@ 009 Believer. Imagine Dragons. https://noobnotes.net/believer-imagine-dragons/
+A ^F ^D ^D ^C ^D ^D ^E ^D ^C A G A ^E ^D ^D ^C ^D ^D ^E ^D ^C A G A ^C A ^E ^D ^C A G A ^C G# A ^E ^D ^D ^C ^D ^D ^D ^E ^D ^C A G A ^E ^D ^D ^D ^C ^D ^D ^E ^D ^C A G A ^C A ^E ^D ^C A G A ^C G# G# G A A A A A A A A A A A A A A A A A A ^C ^C ^C ^C ^C ^C ^C ^C ^C B B B B B B B B B B B B A A A A A A A A A A A A A A A A ^C ^C ^C ^C ^C ^C ^C ^C B B B B ^A ^E *C *C ^B A *C *C ^B ^A ^A *C *C ^B ^G# ^A ^E *C *C ^B ^A *C *C ^B ^A ^A *C *C ^B ^G# ^D ^E ^D ^D ^C ^D ^C ^D ^C ^D ^C ^D ^E ^D ^D ^C ^D ^C ^D ^C ^D ^C ^A ^E *C *C ^B A *C *C ^B ^A ^A *C *C ^B ^G# A ^E ^D ^D ^C ^D ^D ^E ^D A G A ^E ^D ^D ^D ^C ^D ^D ^D ^E ^D ^C A G A ^C A ^E ^D ^C A G A ^C G# G# G A A A A A A A A A A A A A A A A ^C ^C ^C ^C ^C ^C ^C ^C B B B B B B B A A A A A A A A A A A A A A A A A A A A A A A A ^C ^C ^C ^C B B A ^E ^D ^D ^C ^D ^D ^E ^D ^C A G A ^E ^D ^D ^C ^D ^E ^E ^D ^C A G A ^C A ^E ^D ^C A G ^C G# B B ^C A A ^C A A ^C ^C ^C ^C ^C ^ C ^C ^A ^A ^C A A ^C ^C ^C ^C ^C ^C ^C B ^C ^C B ^C B A
+
+@ 010 Beneath your beautiful. Labrinth. https://noobnotes.net/beneath-your-beautiful-labrinth/
+E F# F# E E D .B .A E F# D F# F# F# F# E E D .A .B .A E F# .A E F# D F# F# F# F# A B A A A A A G F# E E F# E F# F# F# F# A B A .A A G F# E D E E F# G ^C# ^D ^E ^F# ^G ^G ^G ^G ^G ^F# ^E ^E ^D ^E ^F# ^G ^G ^G ^G ^G ^F# ^E ^A ^G ^F# ^D ^D ^A ^G ^F# ^D ^D ^A ^A ^A ^A ^B ^A ^A ^G ^F ^D ^G ^G ^G ^G ^F# ^E ^E ^D ^D
+
+@ 011 Boys like you. Anna Clendening 2017. https://noobnotes.net/boys-like-you-anna-clendening/
+F# F# F# E D D E D D D D C# D E .B F# D D D D E C# F# E D D .A D D D E C# C# C# C# D .A .B D F# D D C# C# E E E D C# C# C# C# C# D D C# E E E D .A .B D C# C# .B .A .B .A .B D .A .B D .A .B D .A .B E D .B .B .B .A .A .A .A .A .A .B D E D D D C# C# C# D D .A .B E E E D D E F# F# E E D C# .B D D D D A F# E D E D D C# C# C# D D D D D E F# E E F# F# E D D A F# F# E D E F# F# F# D D E E C# .B C# F# E D D D F# F# E D E D E F# G F# E D E .A .B D F# D D C# D E F# F# D E F# G E C# E E D D .B D C# C# .B .A .B E E E D D .B D C# C# .B .A .B .A .B D .A .B D .A .A .B D .A .B E D .B .B .A .A .A .A .A .A .B D E D D D C# C# C# D D .A .B E E E D D E F# F# E E D C# .B D D D D A F# E D E D D C# C# C# D D D D D E F# E D D E F# F# E D G F# E F# F# F# E D D A F# F# E D E F# F# F# D D D E C# .B C# F# E D D D F# F# E D E D E F# G F# E D E .A .B D F# D D C#
+
+@ 012 Call me maybe. Carly Rae Jepsen. https://noobnotes.net/call-me-maybe-carly-rae-jepsen/
+B B B B B A B B B B B B A B B B B B B A A A A G G ^D B B B B B B A B B B B B B A B B B B B B A A A A G G ^D B ^D ^D B A G ^D ^D ^D B A G ^D ^D ^D B A G G G G G G G A B ^G B ^D ^G ^D B B ^D ^B ^G ^G ^B *C ^B ^G ^G ^B ^A ^A ^G ^G B ^D ^G ^D B ^D ^B ^G ^G ^B *C ^B ^G ^G ^B ^A ^A ^G ^G B ^D ^G ^D ^B ^B ^D ^B ^G ^G ^B *C ^B ^G ^G ^B ^A ^A ^G ^G B ^D ^G ^G ^D ^B ^D ^B ^G ^G ^B *C ^B ^G ^G ^B ^A ^A ^G
+
+@ 013 Chandelier. Sia. https://noobnotes.net/chandelier-sia/
+F F F F F F F F D# D# D# D# D# D# D# F D# D# D# D# D# D# F# F F F F F F F F F G# D# D# D# D# D# D# D# D# D# D# D# D# D# D# D# F# F ^C# Bb Bb ^C# Bb Bb Bb ^C# Bb Bb ^C# Bb Bb Bb ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C# ^C# Bb ^C# ^C Bb G# F F# G# ^C# Bb Bb Bb ^C ^C# ^F# ^F ^C# Bb ^C# ^C ^C Bb Bb G# F F# G# ^C# Bb Bb Bb ^C ^C# ^F# ^F ^C# Bb ^C# ^D# ^C# ^D# ^F ^D# ^C# ^C# G# Bb ^F ^D# ^F ^D# ^C# ^C# Bb ^C# ^C Bb G# F F# G# ^C# Bb Bb Bb ^C ^C# ^F# ^F ^F ^F ^D# ^C# ^C# ^C Bb Bb ^F ^D# ^D# ^C# ^C Bb G# G# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^F ^D# ^D# ^C# ^C Bb G# G# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^F ^D# ^C# ^C# F F F F F F G# F D# D# D# D# D# D# D# D# D# D# D# D# D# D# D# D# F# F ^C# Bb Bb ^C# Bb Bb Bb ^C# Bb Bb ^C# Bb Bb Bb ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C ^C# ^C# Bb ^C# ^C Bb G# F F# G# ^C# Bb Bb Bb ^C ^C# ^F# ^F ^C# Bb ^C# ^C ^C Bb Bb G# F F# G# ^C# Bb Bb Bb ^C ^C# ^F# ^F ^C# Bb ^C# ^D# ^C# ^D# ^F ^D# ^C# ^C# G# Bb ^F ^D# ^F ^D# ^C# ^C# Bb ^C# ^C Bb G# F F# G# ^C# Bb Bb Bb ^C ^C# ^F# ^F ^F ^F ^D# ^C# ^C# ^C Bb Bb ^F ^D# ^D# ^C# ^C Bb G# G# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^F ^D# ^D# ^C# ^C Bb G# G# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^D# ^D# ^D# ^C# ^D# ^F ^D# ^C# ^C# ^F ^D# ^C# ^C#
+
+@ 014 Coming round the mountain. Traditional children's rhyme.
+G A ^C ^C ^C ^C A G E G ^C ^C ^D ^E ^E ^E ^E ^G ^E ^D ^C ^D ^G ^G ^E ^E ^E ^E ^D C G ^C ^C G ^D ^C ^E ^E ^E ^E ^D ^C ^C B ^C
+
+@ 015 Copycat. Billie Eilish 2017. https://noobnotes.net/copycat-billie-eilish/
+A G A B A G E A G A B A G A B A G A B A G E B A G A G A G A G A G A B A G G E A G A B A G E A G A B ^D B B ^C B A G A B A G E B A G A G A G A G A G A B A G G E G E .B G E .B .A C D C .B E G E .B E G E .B .B C .B E B B G E ^C ^C B B E B B G E ^C ^C B E B B G E ^C ^C B B E B B G E ^C ^C B A G A B A G E A G A B A G A B A G A B A G E B A G A B ^D ^E ^G ^A ^F# ^E G E .B G E .B .A C D C .B E G E .B E G E .B .B C .B E B B G E ^C ^C B B E B B G E ^C ^C B E B B G E ^C ^C B B E B B G E ^C ^C B B A F# G E G A ^D ^D ^D ^E B A B A G ^D ^D ^D ^E ^G ^B ^A ^F# ^G ^E ^B ^A ^F# ^G ^E ^D G A ^D ^D ^D ^E B A B A G ^D ^D ^D ^E ^G G E E C C E D .B .A .G G E .B G E .B .A C D C .B E G E .B E G E .B .B C .B E B B G E ^C ^C B B E B B G E ^C ^C B E B B G E ^C ^C B B E B B G E ^C ^C B
+
+@ 016 Counting stars. One Republic. https://noobnotes.net/counting-stars-one-republic/
+F# G# B G# F# G# F# E G# F# F# G# A G# F# E G# C# E E F# G# B F# F# G# F# E G# F# F# G# A G# F# E G# F# F# C# E C# G# F# F# E E C# F# G# G# G# G# G# G# G# G# F# G# G# G# G# B B F# G# F# E C# G# F# F# C# G# F# E C# G# F# F# G# G# G# G# G# F# G# G# G# G# B F# E G# F# E C# G# F# F# C# G# F# F# E G# F# E C# ^C# B C# E *C# ^B ^F# ^E ^F# ^G# ^F# ^D# ^D# C# ^D# ^E ^C# B C# B G# B ^C# B C# E *C# ^B ^F# ^E ^F# ^G# ^F# ^D# ^D# C# ^D# ^E ^C# B C# B G# ^C# ^C# B ^C# ^C# B ^C# ^C# B ^C# ^C# B F# E F# G# F# E C# C C# F# G# B F# F# G# F# E G# F# F# G# A G# F# E G# C# E F# G# B F# F# G# F# E G# F# F# G# A G# F# E G# F# F# E E C#
+
+@ 017 Count on me. Bruno Mars. https://noobnotes.net/count-on-me-bruno-mars/
+G A ^C ^E ^D ^E ^E ^E ^D ^E ^E ^E ^D ^E ^E ^E ^E ^E ^D ^E ^C A ^E ^D ^C ^E ^D ^E ^E ^E ^D ^E ^E ^E ^D ^E ^E ^E ^G ^E ^D ^E ^C A ^E ^D ^C ^F ^F ^G ^A ^G ^E ^E ^F ^E ^D ^C ^F ^E ^D ^C ^D ^E ^E ^C ^E ^G ^C B ^E ^G B B A ^C ^F ^E ^D ^C ^F ^E ^D ^C ^C ^E ^G ^C B ^E ^G A B B A ^C ^F ^E ^D ^C ^F ^F ^E ^D ^D ^C ^C ^D ^E *C ^B ^C ^D ^E ^B ^A ^G ^F ^E ^E ^D ^E ^F ^G ^E ^G ^A ^B *C ^B ^E ^D ^E ^F ^G ^E ^G ^A ^B *C *D *C ^B ^A
+
+@ 018 Demons. Imagine Dragons 2011. https://noobnotes.net/demons-imagine-dragons/
+D# D# Bb F F D# D# Bb F F D# D# ^C G F D# D# G# G# G# D# D# Bb F F D# D# Bb F F D# D# ^C G F D# D# G# G# G# Bb Bb Bb Bb G Bb Bb Bb Bb ^D# ^D ^C G G G G G G# G# G# G# G# G G ^D# ^D# ^D# ^D# ^D ^D ^D ^D ^D ^D ^C ^C G G G G G G# G# G# G# G# G G G G Bb D# D G G Bb D C G G G G G G# G# G# G# G# G G G Bb D# D G Bb D C G G G G G G# G# G# G# G G G D# D# Bb F F D# D# Bb F F D# D# ^C G F D# D# G# G# G# D# D# Bb F F D# D# Bb F F D# D# ^C G F D# D# G# G# G# Bb Bb Bb Bb G Bb Bb Bb Bb ^D# ^C G G G G G G# G# G# G# G# G G ^D# ^D# ^D# ^D# ^D ^D ^D ^D ^D ^D ^C ^C G G G G G G# G# G# G# G# G G G G Bb D# D G G Bb D C G G G G G G# G# G# G# G# G G G Bb D# D G Bb D C G G G G G G# G# G# G# G# G G ^D# ^D# ^D# ^D# ^F ^D ^D ^D ^D ^D ^D# ^C ^C ^C ^C ^C G G# ^C ^C ^C ^C ^D ^D# ^D# ^D# ^D# ^D# ^F ^D ^D ^D ^D ^D ^D# ^C G G G G F D# G# G# G# G# G G
+
+@ 019 Despacito.  Luis Fonsi ft. Justin Bieber. https://noobnotes.net/despacito-luis-fonsi-feat-justin-bieber/
+B B B B B B ^C# ^D ^C# B G A B B B B B ^C# ^D B A A A A ^D ^D ^E ^F# ^E ^D ^E ^C# C# B A A B ^C# ^D ^E B A B A F# ^D ^D ^D B A ^F# ^E ^D ^E ^E ^F# ^E ^D B ^F# ^E ^D B A ^E ^E ^E ^F# ^E ^D B A B ^D ^B ^F# ^F# ^G ^F# ^E ^D ^E B B B B B B B B B ^E ^F# ^E ^D B B B B B B B B ^E ^F# ^E ^D A A A ^D ^D ^D ^D ^E ^F# ^E ^D ^E ^E ^E ^E ^F# ^E ^E ^E ^E ^E ^F# ^E ^D ^F# ^E ^D ^D ^C# B F# F# F# F# F# B B B B B A B G G G G G B B B B B ^C# ^D A A A A A A A ^D ^D ^D ^D ^E ^E ^C# ^D ^C B F# F# F# F# F# B B B B B A B G G G G G B B B B B ^C# ^D ^A A A A A A A A ^D ^D ^E ^E ^E ^C#
+
+@ 020 Fireflies. Owl City 2008. https://noobnotes.net/fireflies-owl-city/
+G ^D ^D ^C ^D ^C G G A A G A ^C ^D ^E ^D ^C G G G ^C ^C A G ^D ^D ^C ^D ^C G G A A G A ^C ^D G G ^E ^D ^C G G ^E ^D A ^C E D C G E D C D .G C . B .A .G .B .A .G .A .A C C E D C .G .G .A C D .A .G .G .A C C E D C .G C D G ^D ^D ^C ^D ^C B G A A G A ^C ^D G ^E ^D ^C G ^E ^D ^C A G ^D ^D ^C ^D ^C G G A A G A ^C ^D G G ^E ^D ^C G G ^E ^D A ^C ^E ^D ^C ^G ^E ^D ^C ^D G ^C B A G B A G A A ^C ^C ^E ^C ^C G G A A ^C ^D A G A ^C ^C ^E ^D ^C G ^C ^D G ^E ^D ^C A G ^D ^C ^D ^C ^D ^C A G A ^C G A ^C G G ^D ^D ^D^C ^D ^C G ^D ^E ^C G F A G ^C ^D G ^D ^D ^C ^D ^C G ^D ^C A G A ^C G A ^C G ^C ^D ^D ^C ^D ^C G ^D ^E ^C G ^D ^D ^C ^D ^C G G A A G A ^C ^D G ^E ^D ^C G ^E ^D ^D ^C A G ^D ^D ^C ^D ^C G G A A G A ^C ^D G G ^E ^D ^D ^C G G ^E ^D A ^C ^E ^D ^C ^G ^E ^D ^C D G ^C B A G B A G A A ^C ^C ^E ^D ^C G G A A ^C ^D A G A ^C ^C ^E ^D ^C G ^C ^D G ^E ^D ^C ^C E D C G E D C D .G C .B .A .G .B .A .G .A .A C C E D C .G .G .A .A C D E .G .A C C E D C .G C D
+
+@ 021 Firework. Katy Perry. https://noobnotes.net/firework-katy-perry/
+C# E E C# C# .A .B .B .A .A .A .B .B .A .A .A .A .A .B C# C# C# E E C# C# .A .B .B .A .A .A .A .B .A .A .A .A .A .A .B C# E E A A E E E E F# A A E A A E E E F# E E C# F# E E C# E E C# C# E F# F# D D C# C# D D C# C# .A C# C# .A .A .A .B .B .A .A .A .A .B .B .A .A .A .A .B .A .A C# .B D C# E D F# D# A E B A A ^C# A A F# E ^E ^D ^C# B B A ^C# ^E ^D ^C# B B A ^C# ^E ^D ^C# B B B B A A ^E ^D ^C# B B B B ^E ^D ^C# B B A ^C# ^E ^D ^C# B B A ^C# ^E ^D ^C# B B B A A A ^E ^D ^C# B B B B A A G# E A A A A A A A G# E A A A A A A A B ^C# B A A A A A A A A B ^C# B A
+
+@ 022 Girls like you. Maroon 5. https://noobnotes.net/girls-like-you-maroon-5/
+^C ^C ^C ^E ^E ^C ^C ^C ^E ^D ^C ^D ^D A ^C ^C ^G ^C ^C ^C ^G ^C ^D ^D A ^C ^D ^E ^F ^E G G G ^E ^F ^E G E ^D ^D G ^C ^D ^D G G ^C ^D ^D G G G ^D ^D ^C ^C ^C ^D ^E ^C ^C ^C ^C B ^C ^D ^D A A A A ^C ^D A A A A ^C ^D ^D ^C ^C ^D ^E ^C ^C ^C B ^C ^D ^D A A A A ^C ^D A A A A ^C ^D ^C ^C ^C ^C B B B A ^C ^C ^C ^C ^D ^E ^C ^C ^C ^C B B B A ^C ^C ^C ^C ^D ^E ^C ^C ^G ^A ^C ^C ^G ^A ^E ^E A ^C ^C ^D ^E ^F ^E ^C ^C ^C ^D ^E ^F ^E ^C ^D ^D ^C ^C ^C ^D ^C ^C ^C ^C ^C ^D ^E A ^D ^D A ^C ^D ^D G G ^C ^D ^D G G G ^D ^D ^C ^C ^C ^D ^E ^C ^C ^C ^C B ^C ^D ^D A A A A ^C ^D A A A A ^C ^D ^D ^C ^C ^D ^E ^C ^C ^C B ^C ^D ^D A A A A ^C ^D A A A A ^C ^D ^C ^C ^C ^C B B B A ^C ^C ^C ^C ^D ^E ^C ^C ^C ^C B B B A ^C ^C ^C ^C ^D ^E ^C ^C ^C ^C ^D ^E ^C ^C ^C ^C ^C ^C ^D ^E ^C ^C ^C ^C ^C ^C ^D ^E E E E E D C C E E E E D C C E E E E E E E E C D C C E E E E D C C E E E E D C C E E E E E E E D C D C ^C ^D ^E ^C ^C ^C B ^C ^D ^D A A A A ^C ^D A A A A ^C ^D ^C
+
+@ 023 Gotta catch em all. Pokemon Theme. https://noobnotes.net/gotta-catch-em-all-pokemon-theme/
+A A A A A G E C C A A G F G F Bb Bb Bb A G F F A A G F A A A A A A G E C A A G F G Bb Bb Bb Bb Bb A G F F A A G F A A ^C ^D A A ^C ^D ^D ^C ^C ^C ^D ^D ^C ^C ^D ^E ^F ^E ^D ^C A ^C ^D ^D ^D ^C A F F G A A G F A A ^C ^D A A ^C ^D ^D ^C ^C ^C ^D ^D ^C ^D ^D ^E ^F ^E ^D ^C Bb ^F ^F ^F ^C ^F ^F ^F ^F ^F ^E A A ^C ^D ^D A A ^C ^D ^F ^D A ^C ^D
+
+@ 024 Halo. Beyonce 2009. https://noobnotes.net/halo-beyonce/
+F ^D ^D ^D ^D ^C ^D# F ^C ^C ^C ^C ^D Bb Bb G F Bb Bb Bb Bb Bb Bb Bb A ^C Bb F Bb Bb Bb Bb Bb D# D# D F ^D ^D ^D ^D ^D ^C ^D# ^C Bb ^C Bb ^C Bb ^C Bb ^D Bb Bb G Bb Bb Bb Bb Bb Bb Bb ^C Bb ^F ^D F Bb Bb Bb ^C ^C Bb Bb ^F ^F ^F ^F ^G ^G ^F ^D ^D ^F ^F ^F ^F ^Bb ^Bb ^G ^D ^D ^F ^F ^D ^C Bb G ^D ^D# ^F ^F ^F ^F ^F ^A ^Bb *C *D Bb Bb Bb Bb Bb Bb ^C Bb Bb Bb ^C ^C ^D Bb Bb G Bb Bb Bb Bb Bb Bb Bb F D# D F Bb Bb Bb Bb A Bb F Bb Bb Bb Bb Bb Bb ^C Bb ^C Bb ^C ^D ^C Bb Bb A G Bb Bb Bb Bb Bb Bb Bb F D# D Bb Bb Bb Bb A Bb Bb Bb Bb ^C ^D ^C ^D ^C ^D ^C Bb Bb Bb ^C ^D ^C ^D ^C ^D# ^D ^C Bb Bb Bb ^C ^D ^C ^D ^C ^D ^C Bb Bb Bb ^C ^D ^C ^D ^C ^C Bb
+
+@ 025 Happy birthday. 
+D D E D G F# D D E D A G D D ^D B G F# E ^C ^C B G A G
+
+@ 026 Havana. Camila Cabello. https://noobnotes.net/havana-camila-cabello/
+G B B G G E B A B ^C B A G B B G G E B A B ^C B A G B B G G E B A B ^C B A G B G B A B A G B F# G F# G F# G E B ^E ^E ^E B B B ^C B A B B A B A G E B ^E ^E ^E B B B ^C B A B B A B A G E B ^E ^E ^E ^E ^F# ^G ^F# ^E ^F# B A B A G E B ^E ^E ^E B B ^C B A B B A B E E E ^D ^E ^D ^E ^B ^A ^G ^A ^F# ^D^D ^D ^D ^D ^E B B A B A G B F# B A B E E E ^D ^E ^D ^E ^B ^A ^G ^A ^F# ^D ^D ^D ^D ^D ^E B ^E B B ^G ^F# ^E ^E ^E ^E ^E ^E G B B G G E B A B ^C B A G B B G G E B A B ^C B A G B B G G E B A B ^C B A G B G B A B A G B F# G F# G F# G E
+
+@ 027 Heads shoulders knees and toes. 
+G A G F# G E G G G G A G F# G E G G G F E D C E G ^C ^D ^C B ^C A B B G A B ^C C C C
+
+@ 028 How to save a life. The Fray 2011. https://noobnotes.net/how-to-save-a-life-the-fray/
+C D F F F F D# D# D D F F F F D# D# D .Bb .Bb .Bb F F F D# D# D D D D D D C C D .Bb Bb Bb Bb Bb ^C ^C Bb Bb Bb Bb ^C ^C ^D ^C A Bb ^C ^C Bb ^C Bb ^C ^D Bb ^D ^C ^D ^F ^D ^C A ^C Bb Bb ^F ^C Bb ^C ^C ^D A Bb ^F ^C Bb ^C ^C ^C ^D ^C ^C Bb Bb ^F ^C Bb ^C ^C ^D A Bb ^F ^C Bb Bb ^D ^C A Bb
+
+@ 029 I dont know my name. Grace VanderWaal 2016.  https://noobnotes.net/i-dont-know-my-name-grace-vanderwaal/
+E D C G E E D C C G E D D D E D C E G E D G E D E E D C E G G E G E G E G E G E D .B C E E G E G E G E G E G E D E D C G E E D C C G E D D C D E E C E G E D G E D C E E E G E G E G E D D C A G C E E E G E G E G E G E F E E F E D E E E D E G D C C D C D# D .A C E D E D E C G E D D D D D C D D D D# .A C E D ^C B A G A ^C B A G G A G G F G A D D C ^C A A G A ^C A G A Bb A G E E D C
+
+@ 030 I fall apart. Post Malone. https://noobnotes.net/i-fall-apart-post-malone/
+^D# B B G# G# F# B B ^D# B B ^F# ^F# ^F# ^E ^D# ^C# ^C# B B B B ^F# ^F# ^F# ^E ^D# ^C# ^C# B B B ^F# ^F# ^F# ^E ^E ^D# ^C# ^C# B B B ^F# ^F# ^F# ^E ^E ^D# ^C# ^C# B B B B ^F# ^F# ^F# ^F# ^F# ^F# ^G# ^D ^D ^C# B B B B ^F# ^F# ^F# ^F# ^F# ^F# ^G# ^D ^D ^C# B ^F# ^D# ^D# ^C# ^C# B ^F# ^F# ^E ^D# ^C# ^F# ^D# ^D# ^C# ^C# B B ^D# ^D# ^D# ^C# ^D# ^C# B B ^C# ^C# ^D# ^C# B B B B ^C# ^D# ^D# ^D# ^C# B B B ^D# ^D# ^D# ^D# ^C# B B B ^D# ^D# ^D# ^D# ^C# B B B B ^D# ^D# ^D# ^D# ^C# B B B B ^D# ^D# ^D# ^D# ^C# B B B B ^D# ^D# ^D# ^D# ^C# B B ^D# ^D# ^D# ^C# B B B B B B B B B B B B B B B B B B B B B B B B B B B B B B G# ^F# ^E ^D# B ^F# ^G# B B ^F# ^G# B B ^F# ^F# ^G# B ^F# ^D# ^D# ^C# ^C# B ^F# ^F# ^E ^D# ^C# ^F# ^D# ^D# ^C# ^C# B B ^D# ^D# ^D# ^C#
+
+@ 031 If youre happy and you know it. 
+C C F F F F F F E F G C C G G G G G G F G A F F Bb Bb Bb Bb D D Bb Bb A A A G F F A A G G G F E E D E F
+
+@ 032 I kissed a girl. Katy Perry 2008.  https://noobnotes.net/i-kissed-a-girl-katy-perry/
+E E E E D C G F F F F F E E E E E D C G F F F F F E E E E E E F F ^C ^C ^C B E E E E E E F F ^C B ^C B ^C B G E E ^C B G F D F F F F F E E ^C B G E E ^C B G F D F F F F G F E .A C D E .A C D E .A C D E C D C ^C B G E E ^C B G F ^C B G E
+
+@ 033 Im a little teapot. 
+C D E F G ^C A ^C G F F F E E D D D C C D E F G ^C A ^C G ^C A G G F E D C
+
+@ 034 Into the night. Santana ft. Chad Kroeger. https://noobnotes.net/into-the-night-santana-ft-chad-kroeger/
+E E ^C B A B A E E ^C B A B E E ^C B A B G G ^D ^C B ^C G G ^C B A A G G ^C B A B G G ^C B A B G G ^D ^C B ^C E E ^C B A A G A ^C B A B E E ^C B A B G G ^D ^C B ^C A A A A ^E D ^C ^D ^E A A A ^E ^C ^D ^D ^C ^D ^E A A A A A ^E D ^C ^D ^E A A A ^G ^D ^C ^D ^E ^E A A ^G ^D ^C ^D ^E ^E
+
+@ 035 Into you. Ariana Grande. https://noobnotes.net/into-you-ariana-grande/
+^E^C# B ^C# B A F# A ^C# ^C# A ^E^C# B ^C# B A F# A ^C# ^C# A ^E ^C# B ^C# B A F# A ^C# ^C# A ^E ^C# B ^C# B A F# A ^C F# A A A A A ^C# B A ^C# B A ^C# B A ^C# B A A A ^C# B A ^C# B A ^C# B A ^C# B A A A G# A A A ^C# A G# A A E F# F# F# G# A G# E F# F# F# G# A G# F# E F# F# F# G# A G# E F# F# F# G# A G# F# E F# F# F# G# A G# E E F# F# F# F# G# A G# F# A ^E ^C# B ^C# B A B A G# A G#
+
+@ 036 Itsy bitsy spider.  Traditional children's rhyme. https://noobnotes.net/itsy-bitsy-spider-traditional/
+G ^C ^C ^C ^D ^E ^E ^E ^D ^C ^D ^E ^C ^E ^E ^F ^G ^G ^F ^E ^F ^G ^E ^C ^C ^D ^E ^E ^D ^C ^D ^E ^C G G ^C ^C ^C ^D ^E ^E ^E ^D ^C ^D ^E ^C
+
+@ 037 Just the way you are. Bruno Mars. https://noobnotes.net/just-the-way-you-are-bruno-mars/
+F ^C ^C A ^C ^C A ^C A ^C ^C A ^C ^D ^C A ^C ^C A ^C ^C A A ^C A ^C A ^C ^D ^C A Bb A Bb A Bb A A Bb A B G A F ^C ^C A ^C ^C A A A ^C A ^C A A ^C ^D ^C A F ^C ^C A ^C ^C A ^C A ^C A ^C A ^C ^D ^C A A Bb A Bb A Bb A ^C F F F G A A A ^C ^C ^F ^G ^A ^C ^F ^G ^A ^G ^F ^G ^F ^C ^F ^G ^A ^G ^Bb ^A ^F ^G ^F ^C ^F ^G ^A ^C ^F ^G ^A ^G ^F ^F ^G ^F ^C ^C ^F ^G ^A ^G ^Bb ^A ^F ^G ^F
+
+@ 038 Let her go. Passenger. https://noobnotes.net/let-her-go-passenger/
+A B A G G E G G G G E G A B A G A A G B A G A B A G A G E D E D G A B B A G G G E G E G A B A G A A G B A A G A B A G A G E D E D G A G B A A G
+
+@ 039 Like to be you. Shawn Mendes/Julia Michaels 2018. https://noobnotes.net/like-to-be-you-shawn-mendes-and-julia-michaels/
+^D ^C# B A A ^F# ^F# ^F# ^F# ^D ^D ^D ^D ^C# B A A ^F# ^F# ^F# ^F# ^E ^D ^C# B A A ^F# ^F# ^F# ^F# ^E ^E ^E ^D B ^C# ^D ^F# ^G ^F# ^E ^D ^D ^G ^F# ^E ^E ^F ^E ^F# ^G ^F# ^E ^D ^E ^E ^E ^E ^E ^E ^F# ^D ^A ^A ^A ^A ^E ^E ^E ^F# ^D ^A ^A ^A ^A ^E ^E ^E ^G ^F# ^F# ^D ^A ^A ^A ^A ^E ^E ^E ^F# A ^D ^D ^D ^F# ^E ^D ^C# ^D A A ^D ^C# B A A ^F# ^F# ^F# ^F# ^E ^E ^E ^D ^C# B A A ^F# ^F# ^F# ^E ^E ^D ^C# B A A ^F# ^F# ^F# ^F# ^D ^E ^E ^E ^E ^E ^E ^E ^E ^E ^E ^D B ^D ^G ^F# ^E ^D ^D ^G ^F# ^E ^E ^F ^E ^F# ^G ^F# ^E ^D ^E ^E ^E ^E ^E ^E ^F# ^D ^A ^A ^A ^A ^E ^E ^E ^F# ^D ^A ^A ^A ^A ^E ^E ^E ^G ^F# ^F# ^D ^A ^A ^A ^A ^E ^E ^E ^F# A ^D ^D ^D ^F# ^E ^D ^C# ^D ^A ^A ^A ^A ^E ^E ^E ^F# ^D ^A ^A ^A ^A ^F# ^E ^E ^G ^F# ^F# ^D ^D ^D ^A ^A ^A ^A ^E ^E ^E ^D A ^D ^D ^D ^F# ^E ^D ^C# ^D A ^D ^D ^D ^F# ^E ^D ^C# ^D ^G ^F# ^E ^D ^G ^F# ^E ^E ^D ^E ^F# ^G ^F# ^E ^D B B B B ^C# ^C# ^C# ^C# ^D ^D ^D ^D ^E ^E ^D ^A ^A ^A ^A ^E ^E ^E ^F# ^D ^A ^A ^A ^A ^E ^E ^E ^G ^F# ^F# ^D ^A ^A ^A ^A ^E ^E ^E ^F# A ^D ^D ^D ^F# ^E ^D ^C# ^D ^D ^A ^A ^A ^A ^E ^E ^E ^F# ^E ^D ^D ^A ^A ^A ^A ^E ^E ^E ^G ^F# ^F# ^E ^D ^D ^D ^A ^A ^A ^A ^E ^E ^E ^D A ^D ^D ^D ^F# ^E ^D ^C# ^D B A ^D ^D ^D ^D A F# E F# A ^D ^D ^D ^F# ^E
+
+@ 040 Little do you know. Alex & Sierra 2013. https://noobnotes.net/little-do-you-know-alex-sierra/
+E D C .B .A C D D C C C G E D E D C .B .A C D D C C C G E D ^C B A B A G A A G A G A B ^C E D E D C .B .A C E D C .B .G D E D C .B .A C D D C C C G E D E D C .B .A C D D C C C G E D D E ^C B A B A G A G A G A B ^C D E E D C .B .A C E D C .B .G D E E D E E D G F F F F F E D E E D E E C F F F F F F D C E D E E D .G F F F F F E E D C C E G D E C E D C .B .A C C D D C C C G E D E D C .B .A C C D D C C C G E D C .B .A .B .A .G .A .A .G .A .G .A C C .F .E E D C .B .A C .G E D C .B .G D
+
+@ 041 London bridge. Traditional children's rhyme. https://noobnotes.net/london-bridge-traditional/
+G A G F E F G D E F E F G G A G F E F G D G E C G A G F E F G D E F E F G G A G F E F G D G E C
+
+@ 042 Lovefool. 
+G E G E G E G E D F D F D E E F E C E C E C E D E D .B D .B D .B C G E G E G E G E D F D F D E E F E C E E E E E D E D .B .B .B D .B D C A F# A F# ^C# B A G F# G# E G# E G# A G# A B A F# A F# A ^C# B A G# E G# E G# E F# G# A G# F# E E F F# F# F E E F# G# A F# A F# ^C# B A G# E G# E G# E F# G# A G# A B A F# A F F E F# G# B A
+
+@ 043 Lovely. Billie Eilish ft. Khalid 2018. https://noobnotes.net/lovely-billie-eilish-ft-khalid/
+A B B A A A B B A A G G G A B B A A G G A B B A A G A B A G G E F# G A ^E ^D B A B A G E F# A A B ^E ^D B A B A G E F# G A B ^E ^D B A B A G E F# G A B ^E ^D B A ^B ^A ^G ^F# ^E ^A ^G F# ^B ^A ^G ^F ^E ^F# ^E ^G ^B ^A ^G ^F# ^E ^A ^G ^F# ^F# ^G ^F# ^F# ^E ^G A B B A A B A B B A A G G A B B A A A B B A A G A B A G E F# G A ^E ^D B A B A G E F# A A B ^E ^D B A B A G E F# G A B ^E ^D B A B A G E F# G A B ^E ^D B A ^B ^A ^G ^F# ^E ^A ^G F# ^B ^A ^G ^F ^E ^F# ^E ^G ^B ^A ^G ^F# ^E ^A ^G ^F# ^F# ^G ^F# ^F# ^E ^G
+
+@ 044 Love story. Taylor Swift 2008. https://noobnotes.net/love-story-taylor-swift/
+E F F F F E F G F F E F F F F E F G F E F D F F F E E C C C D E F F F F E F F G F E F F F F E F G F E F D F E C C D F E F F F F F F E F G F F F F F G F F F F ^C Bb A G A G A G A A A F G G G G F A Bb A A A F F F Bb A F F G G F A F G F G A G F G G F A F G F G F A G F G F A G F F G A G A G A G A A G F
+
+@ 045 Marry you. Bruno Mars. https://noobnotes.net/marry-you-bruno-mars/
+C C G A A A A A A G F F G A D A G F D F F F F G F F C C C G A A A A G F F G A D A G F F D F F F F G F F C C C C D D E F C C D D E F F G A G F D F F F G A G F D C G F C C C D D E F F C C D D E F F G A G F D F F F G A G F D C G F C C D A G F E F F F Bb A G F D F F Bb A G F D C F G A C D G A C C G A A A A A A G F F G A D A G F D F F F F G F F C C C G A A A A G F F G A D A G F F D F F F F G F F A C D E E F F F C C D E F G A G F D F F F F F G A G F D C G F C C C D E F F C C D E F G A G F D F F F F G A G F D C G F C C D A G F E F F F Bb A G F D F F Bb A G F D C F G A C D G A
+
+@ 046 Mary had a little lamb. Traditional children's rhyme. https://noobnotes.net/mary-had-a-little-lamb-traditional/
+A G F G A A A G G G A ^C ^C A G F G A A A A G G A G F F A G F G A A A G G G A ^C ^C A G F G A A A A G G A G F
+
+@ 047 Meet the Flintstones. Children's TV cartoon. https://noobnotes.net/meet-the-flintstones-flintstones-theme-song/
+G C ^C A G C G F E E F G C D E G C ^C A G C G F E E F G C D C B E ^C B B A A B A A D B A A G G A G G C ^C A G C G F E E F G C D E F G C D E F G ^C ^D ^C
+
+@ 048 Midnight train. Sam Smith. https://noobnotes.net/midnight-train-sam-smith/
+G# G# G# G# G# G# B B F# F# F# F# E F# F# E G# F# E F# E E F# E F# E F# G# F# E F# E E F# E F# F# G# F# E F# E G# G# F# G# G# G# G# B B F# F# G# F# F# F# E F# F# B G# G# F# F# E E E F# E F# E F# G# F# E F# E E F# E F# E E F# G# G# F# G# E E G# G# F# G# B F# F# F# E F# C C F# F# E F# G# E E E G# F# E E E B G# A G# A G# F# E E
+
+@ 049 Morning has broken. 
+F A C ^F ^G ^E ^D ^C ^D ^C F G A ^C ^D ^C A F G ^C A ^C ^F ^D ^C A F F G A G A ^C ^D G A G F F A C ^F ^G ^E ^D ^C ^D ^C F G A ^C ^D ^C A F G ^C A ^C ^F ^D C A F F G A G A ^C ^D G A G F
+
+@ 050 My immortal. Evanescence. https://noobnotes.net/my-immortal-evanescence/
+C C C C C E E C C C C C E E G E D C G G G G F E G G F E D E F E E G G G G G E G G G G G B ^C ^C B B B B ^C ^C B B B B ^C ^C B B B B B B B ^C ^D ^C A ^C B ^C ^D ^D ^C B ^C B B A A ^C B ^C ^D ^D ^C B ^C B B A A ^C B ^C ^D ^C B ^C B B A A ^C B ^C ^C B ~ B ^C ^C C C C C C C C C E E E D E F E C C C C C E E E G E D C G G F E D G F ED EF E G G F E D E G G G G B ^C ^C B B B B ^C ^C B B B B ^C ^C B B B B B B B C ^D ^C A ^C B ^C ^D ^D ^C B ^C B B A A ^C B ^C ^D ^D ^C B ^C B B A A ^C B ^C ^D ^C B ^C B B A A ^C B ^C ^C B ~ B ^C ^C C D E F G G ^C ^C B A A G A ^C ^C ^E ^D ^D ^C B ^C ^D E ^D ^C ^C A ^C B ^C ^D ^D C B ^C B BA A ^C B ^C ^D ^D C B ^C B BA A ^C B ^C ^D ^C B ^C B BA A ^C B C C B ~ B ^C ^C B ^C B ^C B
+
+@ 051 My kind of perfect. David Archuleta, 2010. https://noobnotes.net/my-kind-of-perfect-david-archuleta/
+A A A A A B F# F# A A A A ^C# ^D ^D ^D ^C# B B A F# A E A F# A B F# F# A ^D ^D ^D ^D ^D ^E ^F ^D ^D ^D ^C# B A B A F# A E A ^F# ^E ^D ^D ^F# ^E ^D ^E A ^D ^E ^F# ^F# ^E ^E ^D ^F# ^E ^D ^D ^F# ^E ^D ^E B ^D ^E ^F# ^D ^E ^F# ^F# ^D ^E ^F# ^F# ^D ^E ^F# ^G ^F# ^E ^D ^D ^D ^E ^F# ^F# ^D ^E ^F# ^A ^F# ^E ^D ^D ^D ^F# ^D A A ^E ^C# ^D B ^D ^E ^F# ^A ^F# B ^D ^E ^F# B ^D ^E ^F# ^D ^E ^E ^D A A A A B B F# F# F# A A ^C# ^D ^D ^D ^C# ^C# B B A A F# A E A F# A B F# F# A ^D ^D ^D ^D ^E ^F ^D ^D ^D ^C# B A B A F# A E A ^F# ^E ^D ^D ^F# ^E ^D ^E A ^D ^E ^F# ^F# ^E ^E ^D ^F# ^E ^D ^D ^F# ^E ^D ^E B ^D ^E ^F#
+
+@ 052 Never be the same. Camila Cabello, 2017. https://noobnotes.net/never-be-the-same-camila-cabello/
+E G G E G G G E A G G G G G G G G E A G G G G G G G G E A G G G G G G G G G E A G G G G G G G G E A G G G G G G G G G A ^C ^D ^E A G G ^E ^E ^E ^E ^G ^E ^G ^E ^E ^G ^E G G ^E ^G G G ^E ^G ^E ^E ^G ^E ^D ^C A G G ^E ^G ^E ^D ^C ^C G A ^C A ^C A ^C A ^C ^C A ^C G A ^C A ^C A ^C A ^C A ^C ^D A G G ^E ^D ^F ^E ^C ^C F E F E F E F E ^C ^C ^C G A ^C A ^C A ^C A ^C ^C A ^C G A ^C A ^C A ^C A ^C A ^C ^D G A ^E ^D ^F ^E ^C ^C F E F E F E F E F E F E ^C E F E F E ^E ^D E F E F E ^E ^D ^C A E F E ^E ^D ^E
+
+@ 053 Never forget you. Zara Larsson ft. MNEK. https://noobnotes.net/never-forget-you-zara-larsson-mnek/
+A F# A F# A B ^C# B ^C# ^D ^E ^D ^E ^F# ^G ^F# ^E A F# A F# A B ^C# ^C# ^D ^E ^D ^E ^F# ^G ^F# ^E A ^A ^E ^E ^E ^E ^E ^E ^E ^E ^D B B ^A ^E ^E ^E ^E ^E ^E ^E ^E ^D B A A F# A F# A B ^C# B ^C# ^D ^E ^D ^E ^F# ^G ^F# ^E ^E ^D B A A ^A ^A ^A ^E ^D B A ^A ^A ^A ^D ^E ^E A A ^A ^A ^A ^E ^D B A A A A A ^A ^A ^A ^A ^D ^E ^E ^D ^F# ^A ^B ^A ^F# ^E ^D ^D ^F# ^A ^B ^B ^A ^A ^F# ^D ^E A A ^A ^A ^A ^E ^D B A A ^A ^A ^A ^D ^E ^E ^D ^E ^F# ^E ^D B ^D ^E ^F# ^E ^D B
+
+@ 054 New rules. Dua Lipa. https://noobnotes.net/new-rules-dua-lipa/
+^C B A B ^C B A ^C B A B ^D ^C ^E A A A G ^E A A A G ^C B A B ^C B A ^C B A B ^D ^E ^E A A A G ^E A A A G ^E ^G ^G ^F ^E ^D ^C A ^E ^F ^E A ^E ^F ^E ^D ^E ^G ^G ^F ^E ^D ^C A A ^E ^F ^E A ^E ^F ^E ^D A ^D ^E ^D ^D ^D ^C ^D ^D ^D ^D ^D ^D ^C A ^D ^D ^D ^D A ^E ^D ^D ^D A ^D A ^D A ^D A ^D A ^E ^D ^D ^D ^C ^G ^G ^G ^G ^G ^G ^G ^G ^D ^D^ D ^D ^E ^E ^E ^D ^D ^D ^D A ^D ^A ^D ^D A A B ^C ^E ^C B A A B ^C ^E ^C B A A B ^C ^E ^C B A ^C A B ^C ^E ^C B A A B ^C ^E ^C B A ^C
+
+@ 055 Oh Susanna. 
+G A B ^D ^D ^E ^D B G A B B A G A G A B ^D ^D ^E ^D B G A B A A G G A B ^D ^D ^E ^D B G A B B A G A G A B ^D ^D ^E ^D B A A B B A A G ^C ^C ^E ^E ^E ^D ^D ^B G A G A B ^D ^D ^E ^D B G A B B A A G
+
+@ 056 Perfect. Ed Sheeran. https://noobnotes.net/perfect-ed-sheeran/
+D# F G# G# ^C Bb G# ^C Bb ^C ^C ^C Bb G# G# G# Bb ^C Bb ^C Bb G# ^C Bb G# ^D# ^C Bb G# G# G# Bb ^C ^C# ^C# ^C Bb Bb G# G# Bb ^C Bb G# Bb ^C ^D# ^D# ^D# ^F ^C G# ^C ^C ^C ^C Bb G# ^C ^C ^C ^C Bb G# ^C# ^C G# D# ^C ^C# ^C Bb ^C Bb G# ^C ^C ^C ^C Bb G# ^C ^C ^C ^C Bb G# ^C# ^C G# D# Bb G# Bb ^C ^D# ^C Bb G# G# ^G# ^G ^F ^G ^C ^D# ^D# ^C# ^C Bb G# ^G# ^G ^F ^G ^C Bb G# ^D# ^D# ^D# ^D# ^F ^C Bb G# ^C ^D# ^G# ^G ^F ^G ^C G# Bb ^C ^D# ^C# ^C ^C# ^C G# G# ^C# ^C G# Bb ^C Bb Bb G# G# G#
+
+@ 057 Photograph. Ed Sheeran. https://noobnotes.net/photograph-ed-sheeran/
+G# G# F# G# G# G# F# G# F# E E E E E F# D# D# E A G# E G# G# F# G# F# E E E F# G# F# G# F# E E E E E F# D# D# E A G# F# E E F# G# E E E E E E F# G# G# E E E E E E F# G# G# F# E E F# B G# G# F# F# E B G# G# F# F# E B G# G# F# F# E E E E F# G# B G# G# G# G# G# A G# F# E G# F# G# G# G# A G# F# E G# F# F# G# A G# F# E E E E D# E E E G# G# F# G# G# G# F# G# F# E E E E E F# D# D# E A G# F# E E E E E G# F# G# F# G# E E E E E ^C# B G# F# E E E E F# D# D# E E E A G# F# E E F# G# E E E E E E F# G# G# E E E E E E F# G# G# F# E E F# B G# G# F# F# E B G# G# F# F# E B G# G# F# F# E E E E F# G# B G# G# G# G# G# A G# F# E G# F# G# G# G# A G# F# E G# F# F# G# A G# F# E E F# G# E E F# G# B G# G# G# A G# F# E G# F# G# G# G# A G# F# E B G# E F# G# A G# F# E E E E D# E E E E E D# E E E G# G# F# G# G# G# E E D# E E E E E F# G# B B B B G# G# G# A G# F# E G# F# G# G# G# A G# F# E G# F# F# G# A G# F# E E F# G# E E F# G# B G# G G# A G# F# E G# F# G# G# G# A G# F# E B G# E F# G# A G# F# E E F# G# E E G# G# G# G# G# A G# F# E G# F# G# G# G# A G# F# E G# F# F# G# G# A G# F# E E E E D# E E E
+
+@ 058 Radioactive. Imagine Dragons. https://noobnotes.net/radioactive-imagine-dragons/
+.B F# F# E .B F# F# E C# C# C# D C# C# D C# .B .B F# F# E .A .A .A .A .B F# F# E F# F# E C# C# C# D C# C# D .B .B F# F# E .A .A .A .A .A C# .B .B .B .B .B B B B A A F# .A .A A A A G# G# E F# E F# E F# .B F# E F# .B F# E F# E F# .B .B .B .B D F# E D E .B F# E D E .B A A A G# G# G# G# G# F# F# F# E D E .B F# E D E .B A A A G# G# G# G# G# F# F# .B F# F# E F# F# E C# C# C# C# D C# C# .B .B .B F# F# E .A .A .A .A C# .B .B F# F# E F# F# E C# C# C# D C# C# D .B .B F# F# E .A .A .A .A .A C# .B .B .B .B .B B B B A A F# .A .A A A A G# G# E F# E F# E F# .B F# E F# .B F# E F# E F# .B .B .B .B D F# E D E .B F# E D E .B A A A G# G# G# G# G# F# F# F# E D E .B F# E D E .B A A A G# G# G# G# G# F# F# D D E C# .A C# C# .B .B D D E C# C# C# .B .B .B .B .B .B B B B A A F# .A .A A A A G# G# E F# E F# E F# .B F# E F# .B F# E F# E F# .B .B .B .B D F# E D E .B F# E D E .B A A A G# G# G# G# G# F# F# F# E D E .B F# E D E .B A A A G# G# G# G# G# F# F#
+
+@ 059 Rehab. Amy Winehouse 2006. https://noobnotes.net/rehab-amy-winehouse/
+G G A ^C A ^C A ^D A G A ^C A ^C A ^C A ^C ^E ^C ^D ^C ^C ^E ^C ^D ^C A G ^C A ^C A ^C ^D ^D ^D ^E ^F ^E ^D G G G ^D# ^D ^D ^C A ^C G G A ^C A ^C A ^D A G A ^C A ^C A ^C A ^C ^E ^E ^E ^F ^D ^E ^D ^C ^D ^E ^C ^C ^C ^C ^C ^D ^D ^C ^C ^D ^E ^E ^C ^E ^E ^D ^E ^D ^C ^D ^E ^E ^C ^D# ^D# ^D ^C A G ^D# ^D ^D ^C G ^D ^D ^D ^D ^D ^E ^F ^E ^D G G ^D# ^D ^C ^D ^D# ^D ^C ^D
+
+@ 060 Riptide. Vance Joy 2013. https://noobnotes.net/riptide-vance-joy/
+.Bb C C# D# F Bb G# F F .Bb C C# D# F Bb G# D# F D# F D# F G# D# F F F F F F D# F F D# F# D# F D# F D# F D# F D# C# Bb G# F G# Bb G# F G# G# Bb G# Bb G# F F F F G# D# D# D# C# F F F G# D# D# F F F F F G# D# C# C# C# D# F F D# F G# D# D# D# C# F F F G# D# D# F F F F F G# D# D# C#
+
+@ 061 Risk it all. The Vamps. https://noobnotes.net/risk-it-all-the-vamps/
+F G A A Bb A G F F G A A A Bb A G F E F G G G A G F E D E F F ^C A A A Bb A G F F ^C A A A Bb A G F E F G G G A G F E D E F F G G G F G G G F G A G F ^F ^E ^F ^E A ^F ^E ^F ^G ^F ^E ^D ^F ^E ^F ^E A ^F ^E ^F ^G ^F ^E ^D ^Bb ^A ^Bb ^A ^D ^Bb ^Bb ^Bb ^Bb ^A ^G ^F ^C ^D ^E ^F ^G Bb Bb Bb Bb F F *C ^A *C ^A ^G ^F *C ^A *C ^A ^G ^F F ^C A A A Bb A G F F ^C A A A Bb A G F E F G G G A G F E D E F F G G G F G G G F G A G F ^F ^E ^F ^E A ^F ^E ^F ^G ^F ^E ^D ^F ^E ^F ^E A ^F ^E ^F ^G ^F ^E ^D ^Bb ^A ^Bb ^A ^D ^Bb ^Bb ^Bb ^Bb ^A ^G ^F ^C ^D ^E ^F ^G ^A ^A ^F ^G ^F ^F ^F ^F ^D ^D ^F ^G ^F ^F ^D ^F ^G F G G G F G G G F G G G F G G G ^F ^G ^G ^G ^F ^G ^G ^G ^Bb ^Bb ^A ^F ^E ^F ^E A ^Bb ^Bb ^A ^F ^E ^F ^E A ^F ^E ^F ^G ^F ^E ^D ^Bb ^A ^Bb ^A ^D ^Bb ^Bb ^Bb ^Bb ^A ^G ^F ^C ^D ^E ^F ^G ^A ^A ^F ^G ^F ^F ^Bb ^Bb ^Bb ^Bb ^A ^A ^A ^F ^E ^F ^E A ^F ^E ^F ^G ^F ^E ^D ^Bb ^A ^Bb ^A ^D ^Bb ^Bb ^Bb ^Bb ^A ^G ^F ^C ^D ^E ^F ^G Bb Bb Bb Bb F F *C A *C A ^G ^F *C A *C A ^G ^F *C A *C A ^G ^F
+
+@ 062 Rock a bye baby. Traditional children's rhyme.
+E G ^E ^D ^C E G ^C B F G ^F ^E ^D ^D ^C A G E G ^E ^D ^C E G ^C B G ^C ^F ^E ^C ^D A B ^C
+
+@ 063 Rolling in the deep. Adele. https://noobnotes.net/rolling-in-the-deep-adele/
+G G F D# C G G F D# C G Bb G F D# C C C D# D# D# D C C G G F D# C C C G G F D# C G Bb G F D# C C C D# D# D C C G G F F D# C C G G F D# C G Bb G F D# C C D# D# D C C G G F D# C G G F D# C G Bb G F D# C C C D# D# D C C C G G F D# C D# D# G G F D# C D# D# G G F D# D# D# F D# G D# D# C G G F D# C D# D# G G F D# C D# G G F D# G Bb G Bb G Bb ^C Bb Bb G Bb G Bb ^C ^D Bb G Bb G Bb G Bb ^C ^C ^D Bb G G G# G# G G G# G F D#
+
+@ 064 Row row row your boat. Traditional children's rhyme.
+C C C D E E D E F G ^C ^C ^C G G G E E E C C C G F E D C
+
+@ 065 Royals. Lorde. https://noobnotes.net/royals-lorde/
+A A A A A ^D ^D ^C ^C A A A A ^D ^D ^C ^C A G A G E A A A ^D ^D ^C ^C ^D ^C A ^D ^D ^D ^G ^F# ^D ^D ^G ^F# ^E ^D ^D ^D ^E ^F# ^E ^D A A ^D ^D ^F# ^F# ^F# ^F# ^D ^D A A ^D ^D ^F# ^F# ^F# ^F# D ^D ^C B ^C ^C ^C ^B B B B B A G ^D ^D ^E ^F# ^E ^D A A ^D ^D ^F# ^F# ^F# ^F# ^D ^D A A ^D ^D ^F# ^F# ^F# ^F# ^D ^D ^E ^D ^E ^C B ^C ^C ^C B B B A G ^D ^D ^D ^E ^F# ^A ^F# ^F# ^D ^F# ^F# ^F# ^F# ^F# ^G ^A ^G ^G ^F# ^E ^E ^E ^D ^E ^E ^F# ^E ^D ^D ^D ^C# ^D ^D ^D ^D ^E ^F# ^A ^F# ^F# ^D ^F# ^F#^F# ^F# ^F# ^G ^A ^A ^A ^A ^A ^G ^C ^C ^E ^E ^G ^G ^D ^D ^F ^F ^F ^E ^D
+
+@ 066 Rude. Magic! 2013. https://noobnotes.net/rude-magic/
+^C ^C# ^C Bb G# ^C ^C# ^C G# F F F F# G# Bb ^C ^C# ^C Bb G# ^C ^C# ^C G# F F F# G# Bb ^F ^F# ^F ^D# ^C# ^F ^F# ^F ^C# ^C# ^C# ^C# ^D# ^F ^F# ^F ^F ^F# ^F ^D# ^C# ^F ^F# ^F ^C# ^C# ^C# ^C# ^C# ^C# ^C ^C ^C ^C Bb Bb Bb G# G# Bb F G# G# G# Bb F G# G# Bb ^C# ^C# ^C# ^C# ^C# ^C ^C ^C ^C Bb Bb G# G# Bb F G# G# Bb ^C# ^D# ^F ^G# ^G# ^G# ^G# ^C# ^C# ^F ^D# ^C# ^G# ^G# ^G# ^G# ^C# ^C# ^F ^D# ^C# ^G# ^G# ^G# ^G# ^C# ^C# ^F ^D# ^C# ^C# ^C# ^C# ^C ^C ^C ^C ^C# ^C# ^F ^F ^C# G# ^C ^C# ^C# ^C ^C# ^C# ^F ^F ^C# G# ^C ^C# ^C# ^C ^C# ^C# ^F ^F ^C# G# ^C ^C# ^C# ^C ^C# ^C# ^G# ^G# ^G# ^G# ^C# ^C# ^F ^D# ^C#
+
+@ 067 Secret love song. Little Mix 2015.  https://noobnotes.net/secret-love-song-little-mix/
+A B ^C# ^C# ^C# ^C# ^C# A B ^C# B A G# G# A A B G# G# A ^E A A E F# A ^E A A A ^D ^C# B A B B ^C# ^C# ^C# ^C# ^C# A B ^C# ^E ^F# ^E ^C# ^C# ^C# ^C# ^C# ^C# A B ^C# ^E ^F# ^C# ^D ^D ^D ^D ^D ^D ^D ^D ^D C# A B ^C# B A B A B ^C# ^C# ^C# ^C# ^C# A B ^C# ^E ^F# ^E ^C# ^C# ^C# ^C# ^C# A B ^C# ^E ^F# ^E ^D ^D ^D ^D ^D ^D ^D ^D ^C# A B ^C# B A B A B ^C# ^D ^E ^E ^F# ^E ^D ^C# ^C# ^D E A B ^C# ^C# ^C# ^C# ^C# A B ^C# B A G# G# G# A A B G# G# A ^E A A E F# A ^E A A A ^D ^C# B A B
+
+@ 068 Shake it off. Taylor Swift 2014. https://noobnotes.net/shake-it-off-taylor-swift/
+^G ^E ^D ^C ^E ^G ^G ^E ^D ^C ^E ^G ^E ^D ^C ^E ^D ^C A G ^G ^E ^D ^C ^E ^D ^C A G G G ^G ^E ^D ^C ^E G ^G ^E ^D ^C ^E G G ^G ^E ^D ^C ^E ^D ^C A G ^G ^E ^D ^C ^E ^D ^C A G ^E ^D ^C ^D A ^D ^E ^D ^C ^D A A ^D ^E ^D ^C ^D ^C ^D ^E ^C A ^C ^D ^E ^E ^D ^C ^C A ^C ^D ^D ^D ^E ^C A G E C A ^C ^D ^D ^D ^E ^C A G E C ^C ^C ^D ^D ^D ^E ^C A G E C ^C ^D ^E ^C ^C ^D ^E ^C ^C ^D ^D ^D ^E ^C A G E C ^C ^C ^D ^D ^D ^E ^C A G E C ^C ^C ^D ^D ^D ^E ^C A G E C ^C ^D ^E ^C ^C ^D ^E ^C
+
+@ 069 Shape of you. Ed Sheeran 2017. https://noobnotes.net/shape-of-you-ed-sheeran/
+.B E E E E E E E E E E E E E E E F# G# G# B G# G# G# G# G# F# F# F# F# F# F# F# F# F# G# F# E C# C# C# C# F# G# G# G# G# G# G# G# G# G# G# G# G# G# B G# G# F# F# E G# F# E E E E B F# G# G# F# F# F# F# F# F# F# F# F# E C# .G# .G# C# C# C# C# C# C# C# .B C# G# F# F# F# G# F# E C# E G# F# F# C# B F# G# G# F# E C# F# F# G# F# E F# E C# C# C# C# .B C# G# F# F# F# G# F# E C# E G# F# F# C# B G# G# F# E E C# C# B G# G# F# E E C# .G# .B C# E F# G# F# E E F# F# E E F# G# F# E E F# C# C# E F# G# E E F# F# E F# G# F# E F# C# F# G# B G# F# E F# C# E F# G# F# E F# C# C# C# C# C# E F# G# C# E F# F# E F# G# F# E F# C# C# C# E E F# F# G# G# E F# G# F# E F# C# C# C# E E F# F# G# G# E F# G# F# E F# C# C# C# E E F# F# G# G# E F# G# F# E F# C# C# C# C# C# E F# G# C# E F# F# E F# G# F# E E F# C#
+
+@ 070 Shotgun. George Ezra 2018. https://noobnotes.net/shotgun-george-ezra/
+A A G F G F G F G F F F F F A G F D C D C D C ^C ^C ^C A A F F F Bb F F D Bb F F F F F F ^F F F ^D ^C A G F G A G F C D F C D F C A G A A ^D ^C A F G C G F C D F C D F C A G G A G D F F G A G D F F G A G D F F G A G D F F G A G D F F G A G D F F
+
+@ 071 Skinny love. Birdy. https://noobnotes.net/skinny-love-birdy/
+G# B B B ^C# B B G# G# G# B B G# ^C# B B B E G# F# E .B C# E .B C# E C# E G# C# E E E F# G# A G# F# E .B .B C# G# B ^C# B B E G# G# B B G# ^C# B B E G# F# E .B C# E .B C# E C# E G# C# E E E E F# G# E F# E F# E E E B G# G# F# F# G# E E B G# G# F# E E E B G# G# F# F# F# E E B G# G# F# F# E E E B G# G# F# F# G# E E B G# G# F# E E E E B G# G# F# F# G# E E E B B G# G# F# E G# B B G# ^C# B B E G# G# B B G# ^C# B B E G# G# F# E .B C# E .B C# E C# E G# C# E F# G# A G# F# E E E C# E E B G# G# F# F# F# G# E E B G# G# F# E E E B G# G# F# F# F# G# E E B G# G# F# E E B G# G# F# F# G# E E B G# G# F# E E E B B G# G# F# G# E E B G# G# F# E G# G# B G# G# F# E G# B ^C# ^C# B F# F# E G# B B B ^C# B .B C# E .B C# E C# E G# C# E .B C# E .B C# E C# E G# C# E
+
+@ 072 Skyfall.  Adele 2012. https://noobnotes.net/skyfall-adele/
+G G E E C E F# G F# F# G E E F# E F# E F# E G E F# E F# E F# E E B A B E F# F# E E C E E F# G F# F# E E F# E F# E F# G F# E D E F# E F# E F# B A B E E E B E E E ^C E E E ^E ^C A A G A G G A G F# E B E E E ^C E E E ^E B A A G A G G A G F# E G F# E E E G F# E E E F# E F# E F# F# E G E F# E F# E F# E E E E F# G A B E G A A B E .B E E B A E E B ^D Bb B E E E B E E E ^C E E E ^E ^C A A G A G G A G F# E B E E E ^C E E E ^E B A A G A G G A G F# E F# F# F# F# E F# F# G F# G B A A A G E E E E E G F# E G E B A B G ^D A A B G B B B B B B B ^E ^D# ^E ^D B E E E B E E E ^C E E E ^E A G A G G A G F# E B E E E ^C E E E ^E B A A G A G G A G F# E ^E ^D ^E ^E ^D B ^E ^D ^E ^E ^D# ^E ^D B A B B B A B A ^C ^D ^E ^D B A B ^D B A G F#
+
+@ 073 Sober. Demi Lovato 2018. https://noobnotes.net/sober-demi-lovato/
+C# D# D# D# D# C# C# C# C# D# D# D# C# D# D# D# D# C# C# C# C# .Bb .G# .F C# D# D# D# D# C# C# .Bb .Bb D# D# D# C# D# C# D# D# D# D# C# C# C# C# C# .Bb .G# .F C# C# C# D# D# D# F F F G# G# G# F C# C# C# C# D# D# F F G# F D# C# C# .Bb .Bb C# C# .Bb C# C# C# D# D# D# F F F G# G# F D# D# C# C# C# D# D# D# F F F G# G# G# F D# C# C# .Bb .Bb C# .Bb G# F G# F G# F G# G# Bb F F D# D# D# F# F F# F F# F D# C# D# F D# C# .Bb .G# F G# G# F G# F G# F G# G# G# F D# C# C# C# F F# F C# F F# D# F D# C# D# C# G# Bb F C# C# D# D# D# D# F D# C# C# C# C# D# C# D# C# D# C# D# D# D# D# D# C# C# C# C# .Bb .G# .F# .F C# C# G# G# G# G# D# C# C# C# D# C# D# F D# C# D# D# D# D# D# C# C# C# C# C# .G# .F .D#
+
+@ 074 Someone like you. Adele 2011. https://noobnotes.net/someone-like-you-adele/
+^E ^C# B A ^E ^E C# B A ^E ^E C# B A ^E ^E ^C# B A ^E ^C# B A ^F# ^C# A F# A B F# A F# F# F# B A B ^E ^C# B ^F# ^E ^E ^E ^E D ^C# ^C# ^C# F# F# A F# E F# B A B B A B ^C# A ^C# ^C# ^C# ^C# ^B ^B ^A B B A A B A A A B A B A B A B A A A ^C# ^C# ^C# ^C# ^C# B B A B A B A B ^C# F# A B A B ^C# A A A G# G# F# F# G# G# A F# F# G# A E E A G# G# A F# A ^C# ^C# ^C# ^C# ^E C# ^D ^C# B A C# C# C# B A F# A A A A E E E F# E E F# F# F# A A A A E E E F# E E .B .A .A #C
+
+@ 075 Somewhere only we know. Keane 2004. https://noobnotes.net/somewhere-only-we-know-keane/
+A ^E ^E ^C# ^C# ^C# ^C# ^C# ^D ^D ^D ^D ^D ^D ^D ^D ^C# B ^C# ^D ^C# A ^E ^E ^C# ^C# C# ^D ^C# ^D ^D ^D ^D ^D ^D ^D ^D ^C# B ^D ^C# ^C# ^A ^A ^F# C# E E C# D ^D ^D ^D ^D ^D ^D ^D ^C# B ^C# ^D ^C# ^C# ^A ^A ^F# ^C# ^C# ^C# ^E ^E ^C# ^D ^D ^D ^D ^D ^D ^D ^D ^C# B ^C# D ^C# ^C# ^A ^G# ^G# ^F# ^C# B ^C ^E ^C# ^B ^A ^G# ^G# ^F# ^C# B ^C# ^E ^C# B ^A ^G# ^F# ^C# B C# ^E ^C# B A ^C# B ^E ^C# B ^C# B ^C# ^E B A
+
+@ 076 Stay with me. Sam Smith. https://noobnotes.net/stay-with-me-sam-smith/
+C ^D ^E C ^D ^E ^C ^D ^E ^C ^C C ^D ^E ^C ^E ^C ^D ^E ^G ^E ^A ^G ^E ^D ^D ^C ^A ^G ^E ^C ^ D ^E ^C ^D ^E ^C ^D ^E ^C ^C ^C ^E ^G ^A ^G ^E ^C ^D ^C ^E ^C ^E ^G ^A ^B ^A ^G ^E ^F ^D ^C ^C ^D ^C ^E ^C ^C
+
+@ 077 Stressed out. Twenty One Pilots. https://noobnotes.net/stressed-out-twenty-one-pilots/
+A A A ^C A A A A G F G E A A A ^C A A A A G F G E ^E ^E ^E ^E ^C ^C ^E ^E ^E B B A ^E ^E ^E ^C ^C A ^A ^G G A ^A ^G ^D ^E
+
+@ 078 Sugar. Maroon 5. https://noobnotes.net/sugar-maroon-5/
+F# E D D D F# E D D E E D E E E E E E D D B F# E D D D F# E D D E E D E E E E E E D D B A B B B B ^F# ^F# ^F# ^F# A A B B B ^F# ^F# ^F# ^F# A A B B B ^F# ^E ^D ^D ^E B B A B B B B ^F# ^F# ^F# ^F# A A B B B ^F# ^F# ^F# ^F# A A B B B ^F# ^E ^D ^E ^D D ^D B ^D B F# F# ^F ^E ^E ^D ^D ^E ^D D ^D B D ^D B E F# ^F ^E ^E D ^D ^E ^D .A .B F E E D E F E E D F E E D D E F .B .B D D ^D B ^D B F# F# ^F ^E ^E ^D ^D ^E ^D
+
+@ 079 The wheels on the bus. Traditional children's rhyme. 
+C F F F F A ^C A F G E C A G F C F F F F A ^C A F G C C F
+
+@ 080 Three blind mice. Traditional children's rhyme.  https://noobnotes.net/three-blind-mice-traditional/
+F# E D F# E D A G G F# A G G F# A ^D ^D ^C# B ^C# ^D A A A ^D ^D ^D ^C# B ^C# ^D A A A A ^D ^D ^C# B ^C# ^D A A A G F# E D
+
+@ 081 Titanium. David Guetta ft. Sia 2011. https://noobnotes.net/titanium-david-guetta-ft-sia/
+C C D F E C F F E E D D F C C D F E C C D .A C C D F E C G F E E D D F C D F E C C D .A D Bb Bb A E E A A E E E A E E F D Bb Bb A E E A A E E E A E E F D D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D C D F E C D F F E E D D F C D F E C C D .A C D F E F F E E D D F C D F E C C D .A D Bb Bb A E E A A E E E A E E F D Bb Bb A E E A A E E E A E E F D D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D A A A ^F ^E ^D ^C A F ^C A ^C A G G Bb A ^C A F ^C ^C A ^D ^C D ^D ^D ^C A A ^C ^C A A A ^F ^E ^D
+
+@ 082 Twinkle twinkle little star. Traditional children's rhyme. https://noobnotes.net/twinkle-twinkle-little-star-traditional/
+C C G G A A G F F E E D D C G G F F E E D G G F F E E D C C G G A A G F F E E D D C
+
+@ 083 Up on the housetop. Traditional children's rhyme.
+^D ^D ^E ^D B G B ^D ^E ^E ^D B A ^D ^D ^D ^D ^E ^D B A G B ^D ^E ^E ^E ^D ^D B A ^D G ^C ^C ^E ^D ^D ^D B A ^C ^C B ^D ^D G B ^D ^D ^E ^D B ^C ^D ^E ^D ^D ^E ^D B B A ^D G
+
+@ 084 Walking in the air. 
+A ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D A ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D ^C# ^D E F G A B ^C ^D B G D# F G A Bb ^C A ^D ^C# A A ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D ^C# D E F G A B ^C ^D B G D# F G G A Bb ^C A ^D ^C# A A ^D ^D ^C ^C A A ^D ^D ^C ^C A F G G Bb Bb A A G D F F E E D
+
+@ 085 Wolves. Selena Gomez / Marshmello 2017. https://noobnotes.net/wolves-selena-gomez-marshmello/
+F# A A B E E E E E D E E E D E E D A F# F# A A B E E E D E E E E D E E D A F# ^D ^C# B ^C# B A B A F# A .A .A .B D F# .B D F# ^D ^C# B ^C# B A B A F# A A A .B D F# F# A B B B A B A A A E E E D E A E D E F# A E D E F# F# A B A B A B A A A E E E D E A E D E F# A E D E F# D ^D ^C# B A B A B A D C# B A B A B A E D E F# A E D E F# F# A B B B A B A A A E E E D E A E D E F# A E D E F# G F# E D D D F# A A B E E E D E E E E D E E D A F# F# A A B E E E E D E E E E D E E D A F# ^D ^C# B ^C# B A B A F# A .A .A .B D F# .B D F# ^D ^C# B ^C# B A B A F# A A A .B D F# F# A B B B A B A A A E E E D E A E D E F# A E D E F# F# A B A B A B A A A E E E D E A E D E F# A E D E F# D ^D ^C# B A B A B A D C# B A B A B A E D E F# A E D E F# F# A B B B A B A A A E E E D E A E D E F# A E D E F# G F# E D D
+
+@ 086 Yankee doodle. Traditional children's rhyme.
+^C ^C ^D ^E ^C ^E ^D ^C ^C ^D ^E ^C B G ^C ^C ^D ^E ^F ^E ^D ^C B G A B ^C ^C A B A G A B ^C G A G F E G A B A G A B ^C A G ^C B ^D ^C ^C
+
+@ 087 This old man. Traditional children's song. http://www.zebrakeys.com/blog/2011/02/learn-how-to-play-piano-this-old-man/
+G E G G E G A G F E D E F E F G C C C C C D E F G G D D F E D C
+
+@ 088 The Alphabet Song.  Traditional children's song.  https://colormemozart.com/wp-content/uploads/2019/04/ABC.pdf
+C C G G A A G F F E E D D C G G F E E D G G F E E D C C G G A A G F F E E D D C
+
+@ 089 Hot cross buns. Traditional children's song. https://colormemozart.com/wp-content/uploads/2019/07/hot-cross-buns.pdf
+E D C E D C C C C C D D D D E D C
+
+@ 090 Ode to joy. Ludwig van Beethoven, 1824.  https://colormemozart.com/wp-content/uploads/2019/05/Ode-to-joy.pdf
+E E F G G F E D C C D E E D D E E F G G E D C C D E D C C D D E C D E F E C D E F E D C D G
