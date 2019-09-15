@@ -1,0 +1,18 @@
+#  --- --- --- 
+# |   a   b   |
+# |   a   b   |
+# |   a   b   |
+#  ccc ddd eee 
+# |   f   g   |
+# |   f   g   |
+# |   f   g   |
+#  --- --- --- 
+
+3 2
+ --- aaa ccc |||
+ --- bbb ddd aaa
+ --- ||| eee bbb
+ ccc fff --- |||
+ ddd ggg --- fff
+ eee ||| --- ggg
+

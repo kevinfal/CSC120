@@ -96,9 +96,9 @@ def main():
     resLR = join_pieces_LR(l, r)
 
     print("Top and Bottom")
-    printPuzz(resTB)
+    printList(resTB)
     print("Left and Right")
-    printPuzz(resLR)
+    printList(resLR)
 
 
 if __name__ == "__main__":
