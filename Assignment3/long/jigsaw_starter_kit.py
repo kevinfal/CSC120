@@ -78,6 +78,3 @@ def main():
     print_strs(output_lines)
 
 
-
-#I'm only putting this here so this stops giving me an error
-
