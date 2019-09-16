@@ -119,7 +119,7 @@ def piece_to_strs(piece):
     bottom = ' ' +piece[2][::-1] +' '
     top = ' ' +piece[0] +' '
 
-    return [bottom,row3,row2,row1,top]
+    return [top,row1,row2,row3,bottom]
 
 def join_LR(left, right):
     """
