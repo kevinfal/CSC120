@@ -1,15 +1,24 @@
 '''
     File: jigsaw.py
     Author: Kevin Falconett
-
+    Purpose: Reads and solves puzzles given from
+    a text file. Puzzle pieces are represented by
+    lists of strings of length 3
 '''
 
 def read_pieces_file():
     '''
         Prompts file, reads and gets the puzzle
         width, height, and pieces
+
+        Returns:
+            (width,height,pieces):
+                width (int): width of puzzle
+                height (int): height of puzzle
+                pieces (List[str]): list of strings
+                                    representing puzzle pieces
     '''
-    #filename = 'puzzle03.pieces'
+    
     filename = input("Give the puzzle name: ")
     file = open(filename)
     width = 0
@@ -17,14 +26,16 @@ def read_pieces_file():
     pieces = []
 
     for line in file:
-        
+
         if line[0] == '#' or line == '\n':
             continue
-        
         line = line.strip('\n')
 
+        
         space = 0
-
+        #gets index of start of 
+        #puzzle pieces, skipping
+        #empty spaces
         while line[space] == ' ':
             space += 1
         space -= 1
@@ -46,6 +57,15 @@ def build_empty_board(wid,hei):
     '''
         Builds an empty board, a list of lists
         containing None (list[list[None]]) 
+
+        Parameters:
+            wid (int): width of board
+            hei (int): height of board
+
+        Returns:
+            A list of length wid 
+            containing lists of length hei
+            filled with None
     '''
     returned = []
     for i in range(wid):
@@ -53,6 +73,7 @@ def build_empty_board(wid,hei):
         for i2 in range(hei):
             added.append(None)
         returned.append(added)
+
     return returned
 
 def fill_board(board, wid,hei, pieces):
@@ -107,6 +128,20 @@ def piece_to_strs(piece):
     '''
         Creates 5 strings representing
         the puzzle piece in rows
+
+        Parameters:
+            piece (list[String]): list of
+                                Strings containing representing
+                                puzzle pieces 
+        Returns:
+            A list that will have the
+            top and bottom rows of the
+            puzzle piece surrounded by 1
+            space, and the rows between
+            containing the left side
+            elements and right side 
+            elements with 3 spaces in
+            between
     '''
 
     right = piece[1]
@@ -188,6 +223,9 @@ def join_TB(top,bot):
     return top[:-1] + bot
 
 def print_strs(strs):
+    """
+        Prints a List of lists
+    """
     for x in strs:
         print(x)
 
@@ -216,10 +254,6 @@ def match_LR(left, right):
     rightL_Side = right[3]
     rightL_Side = rightL_Side[::-1]
 
-    returned = leftR_Side == rightL_Side
-
-    #print("Debug: left(R) {} right(L) {} == {}".format(leftR_Side,rightL_Side,returned))
-
     return leftR_Side == rightL_Side
 
 def match_TB(a, b):
@@ -242,16 +276,12 @@ def match_TB(a, b):
             matches b's top.
             False otherwise.
     """
-    # gets the bottom of a
-    # and inverts it
-
+    
     bottom = a[2]
     bottom = bottom[::-1]
 
     # gets the top of b
     top = b[0]
-
-    #print("Debug: top {} bottom {} == {}".format(a,b,returned))
 
     return top == bottom
 
@@ -273,15 +303,17 @@ def main():
     fill_board(board, wid,hei, pieces)
     
 
-    # TODO: comment this loop!
     output_lines = []
+
+    #loops through board
     for y in range(hei):
         this_row = [""]*5
         for x in range(wid):
-            #print("board[{:f}][{:f}] {}".format(x,y,board[x][y]))
-            #print(piece_to_strs(board[x][y]))
+            
+            # converts current piece to string form
             this_piece = piece_to_strs(board[x][y])
-            #print('this row {} this piece {}'.format(this_row,this_piece))
+            # merge current piece with either
+            # blanks or another piece
             this_row = join_LR(this_row, this_piece)
         output_lines = join_TB(this_row, output_lines)
 
