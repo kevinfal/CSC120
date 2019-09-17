@@ -33,9 +33,9 @@ def read_pieces_file():
 
         
         space = 0
-        #gets index of start of 
-        #puzzle pieces, skipping
-        #empty spaces
+        # gets index of start of 
+        # puzzle pieces, skipping
+        # empty spaces
         while line[space] == ' ':
             space += 1
         space -= 1
@@ -100,7 +100,7 @@ def fill_board(board, wid,hei, pieces):
         for x in range(0,wid):
             for i in range(len(pieces)): 
                 piece = pieces[i]
-                #print("piece {}".format(piece))
+
                 if x==0:
                     if piece[3] != "|||":
                         continue
@@ -169,7 +169,6 @@ def join_LR(left, right):
         Returns:
             left and right merged horizontaly
     """
-    #print("left {}".format(left))
 
     if left[0] == '':
         return right
@@ -186,7 +185,7 @@ def join_LR(left, right):
         for string in left:
             newLeft.append(string[:-1])
             left = newLeft
-    #print("left {}".format(left))
+
     for i in range(len(left)):
         returned.append(left[i][:-1] + right[i])
 
@@ -305,7 +304,7 @@ def main():
 
     output_lines = []
 
-    #loops through board
+    # loops through board
     for y in range(hei):
         this_row = [""]*5
         for x in range(wid):
