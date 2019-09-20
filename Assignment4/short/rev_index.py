@@ -46,10 +46,10 @@ def build_rev_index(fileobj):
 
         # if the last phoneme is in dict
         if last_phoneme in returned.keys():
-            #add to existing
+            # add to existing
             returned[last_phoneme].add(first_phoneme)
         else:
-            #construct new set + add
+            # construct new set + add
             returned[last_phoneme] = set([first_phoneme])
 
     return returned    
