@@ -149,7 +149,7 @@ def build_phonemeDict(dictionary):
 
 def printOutput(spoonerisms,phrase):
     for x in spoonerisms:
-        if x != phrase
+        if x != phrase:
             print(x)
 
 def main():
