@@ -49,7 +49,8 @@ def get_phrases():
             read = read.upper()
             read = read.split()
             read = strip_phrases(read)
-
+            if read == '':
+                continue
             phrases.append(read)
         except:
             break
@@ -60,16 +61,18 @@ def strip_phrases(phrase):
     '''
 
     '''
-    remove = '?,!)(.-!@#$%^&*()}{"'
+    remove = '?,!)(.-!@#$;%^&*()}{"'
     returned = []
     for i in range(len(phrase)):
         word = phrase[i]
         word = word.strip(remove)
-        word = word.strip('-')
+        #word = word.strip(rem)
         returned.append(word)
         
     return returned
 
+def is_valid_word(phonemes, dictionary):
+    return phonemes in dictionary
 
 def spoonerisms(phrase,dictionary,proDictionary):
     returned = []
@@ -80,11 +83,18 @@ def spoonerisms(phrase,dictionary,proDictionary):
                 # word is same
                 continue
             
+
             word1 = phrase[wordIndex]
             word2 = phrase[wordIndex2]
-
-            phonemes1 = dictionary[word1]
-            phonemes2 = dictionary[word2]
+            
+            if is_valid_word(word1, dictionary):
+                phonemes1 = dictionary[word1]
+            else:
+                continue
+            if is_valid_word(word2, dictionary):
+                phonemes2 = dictionary[word2]
+            else:
+                continue
             
             for phonemeslist1 in phonemes1:
                 for phonemeslist2 in phonemes2:
@@ -105,17 +115,16 @@ def spoonerisms(phrase,dictionary,proDictionary):
 
                             # find words for these new phonemes
                             
-                                if newPhoneme in proDictionary:
+                                if is_valid_word(newPhoneme,proDictionary):
                                     newWords1 = proDictionary[newPhoneme]
                                     #print("phoneme1 {} word {}".format(newPhoneme,newWords1))
 
                                 else:
                                     continue
-                                if newPhoneme2 in proDictionary:
+                                if is_valid_word(newPhoneme2, proDictionary):
                                     newWords2 = proDictionary[newPhoneme2]
                                 else:
                                     continue
-                                #print("word1 {} word2 {}".format(newWords1,newWords2))
 
                                 # reconstruct phrase with new words
                                 for word1Index in range(len(newWords1)):
@@ -162,7 +171,6 @@ def build_phonemeDict(dictionary):
 
 def printOutput(spoonerisms,phrase):
     for x in spoonerisms:
-        if x != phrase:
             print(x)
 
 def main():
@@ -170,7 +178,10 @@ def main():
     phrases = get_phrases()
 
     for phrase in phrases:
+        if len(phrase) == 0:
+            continue
         phraseJoined = " ".join(phrase)
+
         print('Phrase: {}'.format(phraseJoined))
 
         dictionary = build_dict(filename)
@@ -184,9 +195,7 @@ def main():
 
 def debug():
 
-    #reading from input file (txt)
-    inputfile = '1.in'
-    #inputfile = input("input")
+    inputfile = input("input")
     inputs = open(inputfile)
     dictionaryFile = inputs.readline().strip('\n')
     phrases = []
@@ -201,6 +210,9 @@ def debug():
 
     for phrase in phrases:
         phraseJoined = " ".join(phrase)
+        
+        if len(phrase) == 0:
+            continue
         print('Phrase: {}'.format(phraseJoined))
         
         dictionary = build_dict(dictionaryFile)
@@ -218,4 +230,4 @@ def debug():
 
 if __name__ == '__main__':
     main()
-    debug()
+    # debug()
