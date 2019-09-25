@@ -83,10 +83,10 @@ def strip_phrases(phrase):
         Returns:
             list[str] with each string stripped
             of invalid characters 
-            removes ?,!)(.-!@#$;%^&*()}{"
+            removes ?,!)(.-!@#$;%^&*()}{" and '
     '''
 
-    remove = '?,!)(.-!@#$;%^&*()}{"'
+    remove = '?,!)(.-!@#$;%^&*()}{"'+"'"
     returned = []
     for i in range(len(phrase)):
 
@@ -344,4 +344,4 @@ def debug():
 
 if __name__ == '__main__':
     main()
-    # debug()
+    #debug()
