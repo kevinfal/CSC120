@@ -43,8 +43,7 @@ def insertion_sort(head: ListNode):
             E = new
             while E is not None:
                 if E.val >= curr_element.val and (
-                    E.next == None or E.next.val < curr_element.val
-                ):
+                    E.next == None or E.next.val < curr_element.val):
                     # Element is greater than curr
                     # and its next is less than curr
                     # and inserts

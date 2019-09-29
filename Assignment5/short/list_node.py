@@ -1,16 +1,19 @@
 """
     list_node.py
 
-    Contains a simple ListNode class, which simply has 'val' and 'next' fields.
+    Contains a simple ListNode class,
+     which simply has 'val' and 'next' fields.
 """
 
 class ListNode:
-    """ Models a single node in a singly-linked list.  Has no methods, other
+    """ Models a single node in a singly-linked list.
+        Has no methods, other
         than the constructor.
     """
 
     def __init__(self, val):
-        """ Constructs the object; caller must pass a value, which will be
+        """ Constructs the object; caller must pass a value,
+            which will be
             stored in the 'val' field.
         """
 
