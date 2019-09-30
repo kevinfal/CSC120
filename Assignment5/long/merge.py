@@ -54,7 +54,7 @@ def main():
     l1 = ListNode(222)
     l2 = ListNode(111)
     merged = None
-
+    
     result = insert(None,l1)
     result = insert(result,l2)
     print(result)
