@@ -39,7 +39,8 @@ def zipper3(list1,list2,list3):
     head3First = False
 
     while head is not None or head2 is not None or head3 is not None:
-
+        
+        # first iteration of loop
         if zippered is None:
             if head is not None:
                 zippered = head
@@ -60,8 +61,8 @@ def zipper3(list1,list2,list3):
                 zip_curr = zippered
                 head3First = True
         else:
-            # picks nodes from each list if they are not
-            # empty
+            # picks nodes from each list if 
+            # they are not empty
             if head is not None and not headFirst:
                 zip_curr.next = head
                 head = head.next

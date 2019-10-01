@@ -11,7 +11,8 @@ from list_node import *
 def merge(list1: ListNode,list2: ListNode):
     """
         Merges list 1 and list two into one
-        sorted linked list
+        sorted linked list. Each of the nodes
+        are inserted in their proper order
         
         Parameters:
             list1 (ListNode): head node of a linked list
@@ -20,7 +21,7 @@ def merge(list1: ListNode,list2: ListNode):
             (ListNode) - linked list/node that hold all
             values in list1 and list2 ordered
         Preconditions:
-            none
+            Both list1 and list2 are sorted
 
     """
     head = list1
@@ -70,11 +71,13 @@ def insert(head: ListNode, added: ListNode):
     else:
         curr = E
         while curr is not None:
-            if curr.val >= added.val and (
-                curr.next == None or curr.next.val < added.val):
-                # Element is greater than curr
-                # and its next is less than curr
-                # and inserts
+
+            # Element is greater than curr
+            # and its next is less than curr
+            # and inserts
+            if curr.val >= added.val and (curr.next == None
+                or curr.next.val < added.val):
+                
 
                 next = curr.next
                 curr.next = added
