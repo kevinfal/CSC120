@@ -1,13 +1,23 @@
 """
     File: merge.py
     Author: Kevin Falconett
-
+    Purpose: Provides merge() which takes
+             two linked lists/nodes and merges
+             them into a single list ordered
 """
 
 from list_node import *
 
 def merge(list1: ListNode,list2: ListNode):
     """
+        Merges list 1 and list two into one
+        sorted linked list
+        
+        Parameters:
+            list1 (ListNode): head node of a linked list
+            list2 (ListNode): head node of second linked list
+        Returns:
+            
 
     """
     
@@ -52,12 +62,12 @@ def insert(head, added):
 
 def main():
     l1 = ListNode(222)
+    l1.next = ListNode(444)
     l2 = ListNode(111)
-    merged = None
+    l2.next = ListNode(333)
+    merged = merge(l1,l2)
     
-    result = insert(None,l1)
-    result = insert(result,l2)
-    print(result)
+    print(merged)
 
 if __name__ == '__main__':
     main()

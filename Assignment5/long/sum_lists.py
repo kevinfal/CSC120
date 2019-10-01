@@ -41,7 +41,7 @@ def sum_lists(list1,list2):
         sum_curr.next = node
         sum_curr = sum_curr.next
 
-
+    
 
     return sum_list
         
