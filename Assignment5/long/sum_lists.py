@@ -42,7 +42,7 @@ def sum_lists(list1,list2):
 
     while head is not None:
 
-        # crate corresponding nodes
+        # create corresponding nodes
         node1 = head
         head = head.next
         node2 = head2
@@ -74,6 +74,11 @@ def sum_lists(list1,list2):
         
 
 def main():
+    """
+        Function to test the functionality of sum_lists()
+        provides 2 linked lists (l1,l2) but can be changed
+        for testing
+    """
     
     l1 = ListNode(1)
     l1.next = ListNode(2)

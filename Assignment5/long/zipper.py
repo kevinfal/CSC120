@@ -50,7 +50,7 @@ def zipper(list1,list2):
             zip_curr = zippered
             use_list1 = False
         
-
+        # use second list if not none
         if not use_list1 and head2 is not None:
             zip_curr.next = head2
             head2 = head2.next
@@ -58,7 +58,8 @@ def zipper(list1,list2):
             zip_curr = zip_curr.next
             zip_curr.next = None
             use_list1 = True
-
+            
+        # use first list if not none
         if use_list1 and head is not None:
             zip_curr.next = head
             head = head.next

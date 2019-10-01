@@ -63,6 +63,8 @@ def zipper3(list1,list2,list3):
         else:
             # picks nodes from each list if 
             # they are not empty
+
+            # add from list 1 first if possible
             if head is not None and not headFirst:
                 zip_curr.next = head
                 head = head.next
@@ -71,7 +73,7 @@ def zipper3(list1,list2,list3):
 
                 head2First = False
                 head3First = False
-
+            # then add from list 2 if possible
             if head2 is not None and not head2First:
                 zip_curr.next = head2
                 head2 = head2.next
@@ -80,7 +82,7 @@ def zipper3(list1,list2,list3):
 
                 headFirst = False
                 head3First = False
-
+            #then add from list3 if possible
             if head3 is not None and not head3First:
                 zip_curr.next = head3
                 head3 = head3.next
