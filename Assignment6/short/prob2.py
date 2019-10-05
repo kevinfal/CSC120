@@ -1,16 +1,16 @@
 """
     File: prob2.py
     Author: Kevin Falconett
-    Purpose: 
 """
 
 def bounds(num):
-        if num < 0:
-            return 0
-        elif num > 255:
-            return 255
-        else:
-            return num
+    """ checks if number is within bounds"""
+    if num < 0:
+        return 0
+    elif num > 255:
+        return 255
+    else:
+        return num
 
 class Color:
     def __init__(self,r,g,b):
@@ -20,6 +20,7 @@ class Color:
     def __str__(self):
         return("rgb({},{},{})".format(self.r,self.g,self.b))
     def html_hex_color(self):
+        """ returns rbg value of color"""
         return("#{:02X}{:02X}{:02X}").format(self.r,self.g,self.b)
     def get_rgb(self):
         return (self.r,self.g,self.b)
@@ -28,8 +29,10 @@ class Color:
         self.g = bounds(g)
         self.b = bounds(b)
     def remove_red(self):
+        """removes all red from color"""
         self.r = 0
     def set_standard_color(self,name):
+        """sets the color to a standard one i.e Red"""
         name = name.upper()
 
         if name == "RED":

@@ -1,7 +1,6 @@
 """
     File: prob1.py
     Author: Kevin Falconett
-    Purpose: 
 """
 
 class Simplest:
@@ -23,6 +22,7 @@ class Rotate:
         return self.third
     
     def rotate(self):
+        """moves all elements of rotate"""
         temp = self.first
         self.first = self.second
         self.second = self.third
@@ -34,6 +34,7 @@ class Band:
         self.drummer = None
         self.guitars = []
 
+    # getters
     def get_singer(self):
         return self.singer
     def get_drummer(self):
@@ -41,6 +42,7 @@ class Band:
     def get_guitars(self):
         return self.guitars
 
+    #setters
     def set_singer(self, new_singer):
         self.singer = new_singer
     def set_drummer(self, new_drummer):
@@ -49,6 +51,7 @@ class Band:
         self.guitars.append(new_guitar)
     
     def play_music(self):
+        """plays music"""
         if self.singer == "Frank Sinatra":
             print("Do be do be do")
         elif self.singer == "Kurt Cobain":
