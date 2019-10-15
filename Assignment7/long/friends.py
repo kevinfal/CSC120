@@ -6,16 +6,6 @@
 from list_node import *
 
 
-def value_in_linked(head, val):
-
-    curr = head
-    while curr is not None:
-        if curr == val:
-            return True
-        curr = curr.next
-    return False
-
-
 class Person:
     def __init__(self, name):
         self._name = name
@@ -37,101 +27,98 @@ class Person:
 
     #  utility
     def add_friend(self, friend):
-        added = ListNode(friend)
-        if self._friends is None:
-            self._friends = added
-        else:
-            find_tail(self._friends).next = added
+        if not value_in_linked(self._friends,friend):
+            add_node(self._friends,ListNode(friend))
+        
 
 
     # Override
     def __str__(self):
         return "Name: " +self._name
 
-def make_people_friends(name1,name2):
-    """
-    Takes two strings and
-    :param name1: (str) name of first person
-    :param name2: (str) name of second person
-    :return: (tuple) containging (Person(name1),Person(name2))
-             with their friends set as each other
-    """
-    p1 = Person(name1)
-    p2 = Person(name2)
+def find_mutual_friends(friend_rels, name1: str,name2: str):
+    p1 = find_person(friend_rels, name1)
+    p2 = find_person(friend_rels, name2)
 
-    p1.add_friend(p2)
-    p2.add_friend(p1)
+    if p1 is None or p2 is None:
+        return None
 
-    return (p1,p2)
+    friends1 = p1.get_friends()
+    friends2 = p2.get_friends()
+
+    return linked_intersect(friends1,friends2)
 
 
 def construct_relationships(filename):
+
     people = None
+    
+    people_dict = make_people_dict(filename)
+
+    for name in people_dict:
+        added = Person(name)
+        added.set_friends(people_dict[name])
+        added_node = ListNode(added)
+        people = add_node(people,added_node)
+    
+    return people
+
+def find_person(head: ListNode, name:str):
+    if head is None:
+        return head
+    elif head.val.get_name() == name:
+        return head.val
+    else:
+        return find_person(head.next,name)
+
+
+def linked_intersect(head1,head2):
+    returned = None
+
+    curr = head1
+    while curr is not None:
+        if value_in_linked(head2,curr):
+            returned = add_node(returned,curr)
+        curr = curr.next
+    
+    return returned
+
+def make_people_dict(filename):
+    people_dict = dict()
+
     file = open(filename)
+
     for line in file:
 
+        line = line.split()
 
-        line = line.split(' ')
         name1 = line[0]
         name2 = line[1]
 
-        p1 = None
-        p2 = None
+        name1_node = ListNode(name1)
+        name2_node = ListNode(name2)
 
-        p1_in = False
-        p2_in = False
-        if person_in_linked(people, name1) and person_in_linked(people, name2):
-            p1 = find_person(name1)
-            p2 = find_person(name2)
-
-            p1.add_friend(name2)
-            p2.add_friend(name1)
-
-            p1_in = True
-            p2_in = True
-        elif person_in_linked(people, name1) and not person_in_linked(people, name2):
-            p1 = find_person(people,name1)
-            p2 = Person(name2)
-
-            p1.add_friend(name2)
-            p2.add_friend(name1)
-
-            p1_in = True
-        elif person_in_linked(people, name2) and not person_in_linked(people,name1):
-            p2 = find_person(people,name2)
-            p1 = Person(name1)
-
-            p1.add_friend(name2)
-            p2.add_friend(name1)
-
-            p2_in = True
-        else:  # both don't exist
-
-            # convert names into People objects
-            p1,p2 = make_people_friends(name1, name2)
-
-
-        p1_node = ListNode(p1)
-        p2_node = ListNode(p2)
-        
-        if people is None:
-            people = p1_node
-            people.next = p2_node
+        if name1 in people_dict:
+            people_dict[name1] = add_node(people_dict[name1],name2_node)
         else:
-            if p1_in and p2_in:
-                continue
-            elif p1_in and not p2_in:
-                tail = find_tail(people)
-                tail.next = p2_node
-            elif p2_in and not p1_in:
-                tail = find_tail(people)
-                tail.next = p1_node
-            else:
-                tail = find_tail(people)
-                tail.next = p1
-                tail.next.next = p2
+            people_dict[name1] = name2_node
+        if name2 in people_dict:
+            people_dict[name2] = add_node(people_dict[name2],name1_node)
+        else:
+            people_dict[name2] = name1_node
+    
+    return people_dict
 
-    return people
+
+
+def value_in_linked(head,value):
+    value = ListNode(value)
+    if head is None:
+        return False
+    elif head == value:
+        return True
+    else:
+        return value_in_linked(head.next,value)
 
 def find_tail(head):
     if head is None:
@@ -141,45 +128,21 @@ def find_tail(head):
     else:
         return find_tail(head.next)
 
-
-def find_mutual_friends(friend_rels, name1,name2):
-    pass
-
-
-def node_in_linked(head,node):
+def add_node(head: ListNode, added: ListNode):
     if head is None:
-        return False
-    elif head.val == node.val:
-        return True
+        return added
     else:
-        return node_in_linked(head.next,node)
+        tail = find_tail(head)
+        tail.next = added
+        return head
 
 
-def person_in_linked(head: ListNode,name):
-    """
-
-    :param head: (ListNode) that contains a person object
-    :param node: (str) representing a person's name
-    :return:
-    """
-    if head is None:
-        return False
-    elif head.val.get_name() == name:
-        return True
-    return person_in_linked(head.next,name)
-
-
-def find_person(head,name):
-    if head is None:
-        return None
-    elif head.val.get_name() == name:
-        return head.val
-    else:
-        return find_person(head.next,name)
 
 def main():
-    t = construct_relationships("in02")
-    print(t.val.get_friends())
+    t = construct_relationships("in04.txt")
+    
+    find_mutual_friends(t,"William", "Rebecca")
+
 
 
 if __name__ == '__main__':
