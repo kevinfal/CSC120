@@ -1,20 +1,25 @@
 """
     File: list_intersections.py
     Author: Kevin Falconett
+    Purpose: Provides list_intersection(), which
+             returns a Linked List with all of the
+             nodes with shared values from two linked
+             lists
 """
 
 from list_node import *
 
 def list_intersection(head1,head2):
     """
-
-    :param head1:
-    :param head2:
-    :return:
+    Finds all of the nodes with the same value
+    from head1 and head2
+    :param head1: (ListNode) first List
+    :param head2: (ListNode) second List
+    :return: (ListNode) of all the nodes in
+             both linked lists with same values
+             (None) if there are no shared nodes
     """
     retval = None
-    retCurr = None
-
     curr1 = head1
     curr2 = head2
 
@@ -25,58 +30,38 @@ def list_intersection(head1,head2):
                 added = curr1
                 curr = curr.next
                 added.next = None
-                retval = insert(retval,added)
-
+                retval = add_node(retval,added)
 
             curr2 = curr.next
         curr = curr.next
     return retval
 
-def insert(head: ListNode, added: ListNode):
-    '''
-        Inserts a node (added) into a linked
-        list (head) in the order its proper position
-        (descending)
+def find_tail(head):
+    """
+    Gets the last node of a Linked List
+    :param head: (ListNode) linked list to traverse
+    :return: (ListNode) Last node of a Linked List
+    """
+    if head is None:
+        return head
+    elif head.next is None:
+        return head
+    else:
+        return find_tail(head.next)
 
-        Parameters:
-            head (ListNode): Linked List/node of list to add to
-            added (ListNode): node to be added
-
-        Returns:
-            (ListNode) - E, linked list/node with added inserted
-            into its proper location in the list (heaad)
-
-        Preconditions:
-            added.next should be of type (None)
-
-    '''
-    E = head
+def add_node(head: ListNode, added: ListNode):
+    """
+    Adds a node to the end of a linked list
+    :param head: (ListNode) Linked list to add to
+    :param added: (ListNode) Node to add to list
+    :return: (ListNode) with all Nodes in head with added at
+             the end
+    Precondition:
+        Added.next must be none, or else may not function properly
+    """
     if head is None:
         return added
-    elif E is None or E.val < added.val:
-        # E is empty or added greater than E
-        # makes added the new front of E
-
-        added.next = head
-        E = added
     else:
-        curr = E
-        while curr is not None:
-
-            # Element is greater than curr
-            # and its next is less than curr
-            # and inserts
-            if curr.val > added.val and (curr.next == None
-                                          or curr.next.val < added.val):
-                next = curr.next
-                curr.next = added
-                added.next = next
-            curr = curr.next
-    return E
-
-
-def main():
-    pass
-
-if __name__ == '__main__':
-    main()
+        tail = find_tail(head)
+        tail.next = added
+        return head

@@ -10,7 +10,7 @@ from list_node import *
 
 def rec_reverse(head):
     """
-
+    Reverses a Linked List
     :param head:
     :return:
     """
