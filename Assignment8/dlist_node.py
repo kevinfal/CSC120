@@ -1,6 +1,8 @@
 """
     File: dlist_node.py
     Author: Kevin Falconett
+    Purpose: provides dlist_node class, a
+             doubly linked list
 """
 
 class DListNode:
@@ -52,9 +54,3 @@ class DListNode:
             cur = cur._next
 
         return string + 'None'
-
-    def __eq__(self,other):
-        if isinstance(other,DListNode):
-            return self._val == other.get_val
-        else:
-            return False
