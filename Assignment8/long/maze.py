@@ -8,8 +8,6 @@
 class Maze:
     def __init__(self, edge_list):
         self._maze = self._build_maze(edge_list)
-
-
     
     def _build_maze(self, edge_list):
         
@@ -24,20 +22,21 @@ class Maze:
         return returned
 
     def solve(self, source, finish):
+
         if source == finish:
             return finish
-        elif source not in self._maze:
-            return None
         else:
-            taken = [source]
-            paths = self._maze[source]
-            taken.extend(self.solve(paths[0], finish))
-            return taken
-                
-            
-
-            
-
+            if source not in self._maze:
+                return None
+            else:
+                taken = [source]
+                paths = self._maze[source]
+                for path in paths:
+                    if finish not in taken:
+                        added = self.solve(path, finish)
+                        if added is not None:
+                            taken.extend(added)
+                return taken
 
 
 def create_edge_list(filename):
@@ -52,7 +51,7 @@ def create_edge_list(filename):
 
 
 def main():
-    edges = create_edge_list("custom.txt")
+    edges = create_edge_list("in09.txt")
     maze = Maze(edges)
     print(maze.solve('a','d'))
 
