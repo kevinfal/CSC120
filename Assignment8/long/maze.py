@@ -31,7 +31,8 @@ class Maze:
         else:
             taken = [source]
             paths = self._maze[source]
-            
+            taken.extend(self.solve(paths[0], finish))
+            return taken
                 
             
 
@@ -51,9 +52,9 @@ def create_edge_list(filename):
 
 
 def main():
-    edges = create_edge_list("in09.txt")
+    edges = create_edge_list("custom.txt")
     maze = Maze(edges)
-    print(maze._maze)
+    print(maze.solve('a','d'))
 
 if __name__ == "__main__":
     main()
