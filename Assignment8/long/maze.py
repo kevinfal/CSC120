@@ -40,17 +40,21 @@ class Maze:
         :param finish: (char) end destination to get to
         :return: (List[char]) of edges visited to get to finish
         """
+        # if navigated to finish, or already at it
         if source == finish:
             return finish
         else:
+            # if navigated to a dead end
             if source not in self._maze:
                 return None
             else:
                 taken = [source]
-                paths = self._maze[source]
+                paths = self._maze[source]  # all paths that source leads to
                 for path in paths:
+                    # if we haven't reached the end yet
                     if finish not in taken:
                         added = self.solve(path, finish)
+                        # if path is not a dead end, then add to taken
                         if added is not None:
                             taken.extend(added)
                 return taken
