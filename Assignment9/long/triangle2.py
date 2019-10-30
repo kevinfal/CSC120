@@ -1,6 +1,17 @@
-
+"""
+    File: triangle2.py
+    Author: Kevin Falconett
+    Purpose: provides triangle2(), sum_num(), and fill()
+"""
 
 def triangle2(n):
+    """
+    Constructs a "triangle" with elements that count up
+    :param n: the length of the triangle
+    :return: List[][] -  a triangle of length n
+    """
+
+    # base case
     if n <= 0:
         return []
     else:
@@ -10,6 +21,11 @@ def triangle2(n):
         return returned
 
 def sum_num(n):
+    """
+    Finds the natural sum of a number
+    :param n: number to sum
+    :return: (int) natural sum of a number
+    """
     if n <= 1:
         return n
     else:
@@ -17,6 +33,12 @@ def sum_num(n):
 
 
 def fill(start, n):
+    """
+    fills a part of the triangle
+    :param start: number to start
+    :param n: length of the part of the triangle
+    :return: a List of length n that counts up from start
+    """
     if n <= 0:
         return []
     else:
