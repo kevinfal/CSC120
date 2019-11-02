@@ -1,0 +1,145 @@
+BEGINNING ANOTHER TEST...
+Examining the node 41 :
+    The search for the root value 41 must certainly work!
+    The search for the good values 27,-30 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 69 will definitely fail.
+    search(41) returned a node with value 41
+    search(27) returned a node with value 27
+    search(-30) returned a node with value -30
+    search(69) returned None
+    Left child: -45
+    Right child: 44
+Examining the node -45 :
+    The search for the root value -45 must certainly work!
+    The search for the good values 18,18 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 69 will definitely fail.
+    search(-45) returned a node with value -45
+    search(18) returned a node with value 18
+    search(18) returned a node with value 18
+    search(69) returned None
+    Right child: -31
+Examining the node 44 :
+    The search for the root value 44 must certainly work!
+    The search for the good values 44,-1 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 51 will definitely fail.
+    search(44) returned a node with value 44
+    search(44) returned a node with value 44
+    search(-1) returned None
+    search(51) returned None
+    Right child: 60
+Examining the node -31 :
+    The search for the root value -31 must certainly work!
+    The search for the good values 24,65 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 51 will definitely fail.
+    search(-31) returned a node with value -31
+    search(24) returned a node with value 24
+    search(65) returned None
+    search(51) returned None
+    Right child: 20
+Examining the node 60 :
+    The search for the root value 60 must certainly work!
+    The search for the good values -1,65 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 70 will definitely fail.
+    search(60) returned a node with value 60
+    search(-1) returned None
+    search(65) returned a node with value 65
+    search(70) returned None
+    Left child: 50
+    Right child: 99
+Examining the node 20 :
+    The search for the root value 20 must certainly work!
+    The search for the good values 41,24 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 51 will definitely fail.
+    search(20) returned a node with value 20
+    search(41) returned None
+    search(24) returned a node with value 24
+    search(51) returned None
+    Left child: 18
+    Right child: 24
+Examining the node 50 :
+    The search for the root value 50 must certainly work!
+    The search for the good values 44,99 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 70 will definitely fail.
+    search(50) returned a node with value 50
+    search(44) returned None
+    search(99) returned None
+    search(70) returned None
+    Right child: 57
+Examining the node 99 :
+    The search for the root value 99 must certainly work!
+    The search for the good values 57,65 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 34 will definitely fail.
+    search(99) returned a node with value 99
+    search(57) returned None
+    search(65) returned a node with value 65
+    search(34) returned None
+    Left child: 64
+Examining the node 18 :
+    The search for the root value 18 must certainly work!
+    The search for the good values 64,-30 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 43 will definitely fail.
+    search(18) returned a node with value 18
+    search(64) returned None
+    search(-30) returned a node with value -30
+    search(43) returned None
+    Left child: -1
+Examining the node 24 :
+    The search for the root value 24 must certainly work!
+    The search for the good values 18,50 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 59 will definitely fail.
+    search(24) returned a node with value 24
+    search(18) returned None
+    search(50) returned None
+    search(59) returned None
+    Right child: 27
+Examining the node 57 :
+    The search for the root value 57 must certainly work!
+    The search for the good values 64,-1 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 43 will definitely fail.
+    search(57) returned a node with value 57
+    search(64) returned None
+    search(-1) returned None
+    search(43) returned None
+Examining the node 64 :
+    The search for the root value 64 must certainly work!
+    The search for the good values 60,41 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value -46 will definitely fail.
+    search(64) returned a node with value 64
+    search(60) returned None
+    search(41) returned None
+    search(-46) returned None
+    Right child: 65
+Examining the node -1 :
+    The search for the root value -1 must certainly work!
+    The search for the good values 24,18 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 43 will definitely fail.
+    search(-1) returned a node with value -1
+    search(24) returned None
+    search(18) returned None
+    search(43) returned None
+    Left child: -30
+Examining the node 27 :
+    The search for the root value 27 must certainly work!
+    The search for the good values 57,64 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value -46 will definitely fail.
+    search(27) returned a node with value 27
+    search(57) returned None
+    search(64) returned None
+    search(-46) returned None
+Examining the node 65 :
+    The search for the root value 65 must certainly work!
+    The search for the good values 24,64 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 46 will definitely fail.
+    search(65) returned a node with value 65
+    search(24) returned None
+    search(64) returned None
+    search(46) returned None
+Examining the node -30 :
+    The search for the root value -30 must certainly work!
+    The search for the good values 24,99 might work, or might fail, if we are in the wrong subtree.
+    The search for the bad value 70 will definitely fail.
+    search(-30) returned a node with value -30
+    search(24) returned None
+    search(99) returned None
+    search(70) returned None
+TEST COMPLETED

@@ -1,0 +1,35 @@
+BEGINNING ANOTHER TEST...
+*** NOTE: This testcase will not work properly if your bst_insert_loop() function is not working yet.  So if you failed those testcases, then fix those ones first, then come back and test this one later.
+Searching for the value 51, which should fail.
+    bst_search() returned None.
+Searching for the value 34, which should fail.
+    bst_search() returned None.
+Searching for the value 27, which should succeed.
+    bst_search() returned a node, with the value 27.
+Searching for the value 43, which should fail.
+    bst_search() returned None.
+Searching for the value -30, which should succeed.
+    bst_search() returned a node, with the value -30.
+Searching for the value 51, which should fail.
+    bst_search() returned None.
+Searching for the value -46, which should fail.
+    bst_search() returned None.
+Searching for the value 34, which should fail.
+    bst_search() returned None.
+Searching for the value 18, which should succeed.
+    bst_search() returned a node, with the value 18.
+Searching for the value 18, which should succeed.
+    bst_search() returned a node, with the value 18.
+Searching for the value 18, which should succeed.
+    bst_search() returned a node, with the value 18.
+Searching for the value 18, which should succeed.
+    bst_search() returned a node, with the value 18.
+Searching for the value 44, which should succeed.
+    bst_search() returned a node, with the value 44.
+Searching for the value -46, which should fail.
+    bst_search() returned None.
+Searching for the value -1, which should succeed.
+    bst_search() returned a node, with the value -1.
+Searching for the value -30, which should succeed.
+    bst_search() returned a node, with the value -30.
+TEST COMPLETED

@@ -1,0 +1,65 @@
+BEGINNING ANOTHER TEST...
+Examining the node 41 :
+    count(): 16
+    is_bst(): False
+    Left child: -45
+    Right child: -31
+Examining the node -45 :
+    count(): 1
+    is_bst(): True
+Examining the node -31 :
+    count(): 14
+    is_bst(): False
+    Left child: 20
+    Right child: 24
+Examining the node 20 :
+    count(): 2
+    is_bst(): True
+    Right child: 44
+Examining the node 24 :
+    count(): 11
+    is_bst(): False
+    Left child: 60
+Examining the node 44 :
+    count(): 1
+    is_bst(): True
+Examining the node 60 :
+    count(): 10
+    is_bst(): False
+    Left child: 50
+    Right child: 18
+Examining the node 50 :
+    count(): 1
+    is_bst(): True
+Examining the node 18 :
+    count(): 8
+    is_bst(): False
+    Left child: 99
+    Right child: -1
+Examining the node 99 :
+    count(): 5
+    is_bst(): False
+    Left child: 57
+    Right child: -30
+Examining the node -1 :
+    count(): 2
+    is_bst(): True
+    Right child: 27
+Examining the node 57 :
+    count(): 3
+    is_bst(): False
+    Left child: 64
+    Right child: 65
+Examining the node -30 :
+    count(): 1
+    is_bst(): True
+Examining the node 27 :
+    count(): 1
+    is_bst(): True
+Examining the node 64 :
+    count(): 1
+    is_bst(): True
+Examining the node 65 :
+    count(): 1
+    is_bst(): True
+TEST COMPLETED
