@@ -18,60 +18,70 @@ class TreeNode:
         self._right = right
 
     def search(self,target):
-        left = self._left
-        right = self._right
-        val = self._val
-        if target == val:
-            return self
-        else:
-
-            if left is not None:
-                self.search(left)
-            if right is not None:
-                self.search(right)
-            
-            if val != val:
-                return None
-            
-    def bst_search_loop(self,val):
-        
+        """
+            Searches through the tree
+            returns the node with the value of
+            target, returns none if not in tree
+        """
+        # works
         current = self
+        stack = [current]
 
-        if current._val == val:
-            return current
-        while current is not None and current._val != val:
-            if current._val < val:
-                current = current._left
-            elif current._val > val:
-                current = current._right
-        
-        return current
+        while len(stack) > 0:
+            searched = stack.pop()
+            if searched._val == target:
+                return searched
+            if searched._left is not None:
+                stack.append(searched._left)
+            if searched._right is not None:
+                stack.append(searched._right)
+        return None
+                
 
-    def bst_insert_loop(self,val):
-        
-        current = self
+    def bst_search_loop(self, target):
+        """
+            Searches through the bst
+            returns the node with the value of
+            target, returns none if not in tree
+        """
+        # works
+        curr = self
+
+        while curr is not None:
+            if target < curr._val:
+                curr = curr._left
+            elif target > curr._val:
+                curr = curr._right
+            else:
+                # target is found
+                return curr
+        return None
+
+    def bst_insert_loop(self, val):
+        """
+            Inserts into the bst iteratively
+        """
+        curr = self
+        prev = None
         added = TreeNode(val)
-        
-        while current is not None:
-            # already added
-            if current._val == val:
-                return None
-            # target less than val
-            if current._val > val:
-                prev = current
-                current = current._left
-                if current is None:
-                    prev._left = added
-                    return 
-            # target greater than val
-            elif current._val < val:
-                prev = current
-                current = current._right
-                if current is None:
-                    if prev._right is None:
-                        prev._right = added
-                        return
 
+        while curr is not None:
+            prev = curr
+            if curr._val == val:
+                return
+            if val < curr._val:
+                curr = curr._left
+            else:
+                curr = curr._right
+            
+        # here prev is at right spot
+
+        #find where to add to prev
+        if val < prev._val:
+            prev._left = added
+        else:
+            prev._right = added
+        return self
 
     def __str__(self):
         """
@@ -93,17 +103,4 @@ class TreeNode:
         
 
         return "val: {}, left: {}, right: {}".format(val,left,right)
-        
-def main():
-    x = TreeNode(5)
-    x.bst_insert_loop(1)
-    x.bst_insert_loop(10)
-    x.bst_insert_loop(2)
-    x.bst_insert_loop(3)
-    print(x)
-    print(x._left._right)
 
-
-if __name__ == "__main__":
-    
-    main()

@@ -1,7 +1,15 @@
-
+"""
+    File: tree_Funcs.py
+    Author: Kevin Falconett
+    Purpose: To make me suffer
+"""
 from tree_node import *
 
 def count(root):
+    """
+        Counts the amount of elements in a tree
+        basically len()
+    """
     if root is None:
         return 0
     left = root.get_left()
@@ -16,11 +24,17 @@ def count(root):
     return sum
 
 def is_bst(root):
+    """
+        Checks if a tree is a binary
+        search tree
+
+        True if binary search tree
+        False otherwise
+    """
     if root is None or count(root) == 1:
         return True
 
     tree = pre_order_traversal_nodes(root)
-    #print(tree)
     for node in tree:
         if not checkNode(node):
             return False
@@ -28,6 +42,11 @@ def is_bst(root):
     return True
         
 def checkNode(node):
+    """
+        Helper function for is_bst
+        checks if the node is valid for
+        a bst
+    """
     left = node.get_left()
     right = node.get_right()
     val = node.get_val()
@@ -37,65 +56,54 @@ def checkNode(node):
             return True
     return False
 
-    
-
-def check_bst_recur(root):
-    if root is None:
-        return True
-    left_val = root.get_left().get_val() if root.get_left() is not None else None
-    
-    right_val = root.get_right().get_val() if root.get_right() is not None else None
-    val = root.get_val()
-
-    if left_val is None or  left_val < val:
-        if right_val is None or right_val > val:
-            return True
-    else:
-        return False
-    
-    if check_bst_recur(root.get_left()) == False or check_bst_recur(root.get_right()) == False:
-        return False
-
-    return True
 
 
 def search(root, target):
+    """
+        Searches for a node in a tree
+        returns that node
+    """
     if root is None:
         return None
-    left = root.get_left()
-    right = root.get_right()
-    val = root.get_val()
+    current = root
+    stack = [current]
 
-    if val == target:
-        return root
-    else:
-        if left is not None:
-            search(left,target)
-        if right is not None:
-            search(right,target)
-        return None
+    while len(stack) > 0:
+        searched = stack.pop()
+        if searched._val == target:
+            return searched
+        if searched._left is not None:
+            stack.append(searched._left)
+        if searched._right is not None:
+            stack.append(searched._right)
+    return None
 
 def bst_search(root,target):
+    """
+        Searches through a binary
+        search tree fora node
+        with value target
+    """
     if root is None:
         return None
-    left = root.get_left()
-    right = root.get_right()
-    val = root.get_val()
+    curr = root
 
-    if val == target:
-        return root
-    else:
-        if target < val:
-            if left is not None:
-                bst_search(left,target)
+    while curr is not None:
+        if target < curr._val:
+            curr = curr._left
+        elif target > curr._val:
+            curr = curr._right
         else:
-            if left is not None:
-                bst_search(right,target)
-        
-        return None
+            # target is found
+            return curr
+    return None
+
 
 def bst_insert(root, target):
-    
+    """
+        Insets into a binary search tree
+        recursively
+    """
     added = TreeNode(target)
     if root is None:
         return added
@@ -104,28 +112,29 @@ def bst_insert(root, target):
     if val == target:
         # target is already in tree
         return None
-    
     if val > target:
         # going left (less than)
         if root.get_left() is None:
-            # node's left is empty
-            # set it as the node's left
             root.set_left(added)
         else:
             #recurse into left
-            root.get_left().insert(target)
+            bst_insert(root.get_left(),target)
     elif val < target:
         # going right (greater than)
         if root.get_right() is None:
-            # node's right is empty
             # set as the node's right
             root.set_right(added)
         else:
             #recurse into right
-            root.get_right().insert(target)
-
-    return
+            bst_insert(root.get_right(),target)
+    return root
 def pre_order_traversal_nodes(root):
+    """
+        Traverses through a tree via
+        Pre-Order traversal recursively
+        and returns a list of all the nodes
+        in the tree
+    """
     if root is None:
         return []
     left = root.get_left()
@@ -137,6 +146,11 @@ def pre_order_traversal_nodes(root):
     return returned
 
 def pre_order_traversal(root):
+    """
+        Traverses a tree via pre-order
+        recursively. Returns a list of
+        all values of the nodes
+    """
     if root is None:
         return []
     left = root.get_left()
@@ -150,20 +164,31 @@ def pre_order_traversal(root):
     return returned
 
 def post_order_traversal(root):
+    """
+        Traverses a tree in
+        Post-Order recursively
+        returns list of all values
+        of the nodes
+    """
     if root is None:
         return []
     left = root.get_left()
     right = root.get_right()
     val = root.get_val()
     returned = []
+    returned.extend(post_order_traversal(left))
+    returned.extend(post_order_traversal(right))
 
-    post_order_traversal(left)
-    post_order_traversal(right)
     returned.extend([val])
-
     return returned
 
 def in_order_traversal(root):
+    """
+        Traverses a tree in
+        In-Order recursively
+        returns list of all values
+        of the nodes
+    """
     if root is None:
         return []
     left = root.get_left()
@@ -172,8 +197,8 @@ def in_order_traversal(root):
 
     returned = []
     
-    in_order_traversal(left)
+    returned.extend(in_order_traversal(left))
     returned.extend([val])
-    in_order_traversal(right)
+    returned.extend(in_order_traversal(right))
     
     return returned
