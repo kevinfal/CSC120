@@ -1,0 +1,14 @@
+I have found within Russ' program. The bug is
+in line 37 in   
+
+        for line in input_file:
+            line = line.strip()
+            if line[0] == '#' or len(line) == 0:
+                continue
+
+if the line is '\n', it is stripped so it is ''
+the if statement tries to access the [0]th element
+before it checks the lengths, so it throws an error
+
+The proper procedure would be to check if the length is 0
+else check if the first character is '#'

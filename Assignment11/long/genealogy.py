@@ -340,6 +340,7 @@ def find_lca_name(tree: Person, name1: str, name2: str):
     for i in range(len(path1)):
         if i > len(path2) -1:
             return path1[i -1]
+        
         if path1[i] != path2[i]:
             lca_index = i - 1
             
