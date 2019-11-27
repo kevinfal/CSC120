@@ -16,6 +16,7 @@ class Board:
     def construct_map(self):
         """
             
+            
         """
         returned = []
         for x in range(self.size):
